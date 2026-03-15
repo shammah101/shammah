@@ -1,0 +1,352 @@
+{
+  "projects": [
+    {
+      "slug": "1712C_TPFL",
+      "id": "#01",
+      "title": "세 개의 면, 다섯 개의 켜",
+      "location": "Incheon, Korea",
+      "year": "2025",
+      "category": "MIXED-USE",
+      "status": "built",
+      "image": "images/projects/1712C_TPFL/TPFL_main.webp",
+      "contents": [
+        {
+          "type": "text",
+          "title_en": "The Continuity of Design Intent",
+          "title_ko": "설계 의도의 구현에 관하여",
+          "body_en": "The 2016 policy on appointing construction supervisors for small-scale buildings prompted a reconsideration of the architect’s authority and scope of responsibility in the construction phase. This project can be understood within that context, as a practical case examining how consistently design intent can be maintained through construction.\nIn this project, the architect also assumed the role of contractor, making it possible to exercise a higher degree of control over elements that are often simplified, altered, or omitted on site. Reference points for pattern layouts, railings, hardware details, and material junctions were executed in close accordance with the drawings. When modifications to drawings or materials became necessary due to construction tolerances, such changes were not treated as mere substitutions, but were adjusted in a way that maintained the original design concept.\nAs a result, the architectural idea defined by the designer was carried through with relative consistency, from the exterior envelope to interior furniture and details. While not a literal replication of the drawings, the project demonstrates a close alignment between design and construction, achieving a high level of overall completeness.",
+          "body_ko": "2016년 소규모 건축물 감리자 지정 제도는 설계자의 감리 권한과 그 역할의 범위에 대해 다시 생각하게 만든 계기였다. 이 프로젝트는 그러한 문제의식 위에서, 설계 의도를 시공 단계까지 얼마나 일관되게 유지할 수 있는가에 대한 실질적인 사례로 볼 수 있다.\n본 프로젝트에서는 설계자가 시공사의 역할까지 함께 수행함으로써, 일반적인 현장에서 쉽게 조정되거나 누락되는 요소들을 보다 엄격하게 통제할 수 있었다. 패턴도의 기준점, 난간과 하드웨어를 포함한 세부 디테일, 재료 간의 접합 방식 등은 도면의 기준과 최대한 일치하도록 구현되었다. 또한 시공 오차로 인해 도면이나 재료의 변경이 필요한 경우에도, 단순한 대체가 아니라 원래의 디자인 개념을 유지하는 방향으로 조정이 이루어졌다.\n그 결과 외장부터 내부의 가구와 디테일에 이르기까지, 설계자가 중요하게 설정한 건축 개념이 비교적 일관된 방식으로 실현될 수 있었다. 완전한 일치는 아니더라도, 설계와 시공 사이의 간극을 최소화하며 건축의 총체적 완성도를 확보한 프로젝트이다."
+        },
+        { "type": "image", "src": "images/projects/1712C_TPFL/TPFL_img1.webp" },
+        {
+          "type": "text",
+          "title_en": "A Small Plot, Urban Continuity",
+          "title_ko": "작은 대지, 도시적 연속성",
+          "body_en": "Small-scale buildings in Korea are often shaped less by the specific qualities of the site than by the constraints of building regulations. The site for this project is a small corner lot measuring 18m by 8.4m, with a chamfered edge that gives it an irregular geometry. Here as well, the overall mass and form of the building were largely determined from the outset by the priority of securing the maximum allowable building coverage and floor area ratio.\nUnder the current code, the site would typically accommodate a three-story building. The surrounding context, however, is defined by older five-story buildings constructed between the 1970s and 1990s, which together establish a continuous urban frontage. In such a setting, inserting a small three-story volume solely on the basis of legal allowances would produce a building that remains formally self-contained while disregarding the broader logic of the street. The project therefore began not only with the task of meeting regulatory requirements, but with the question of how a limited volume could still engage the height, density, and continuity of its urban context.",
+          "body_ko": "한국의 소규모 건축물은 대체로 대지 조건보다 건축법의 규정에 의해 형태와 규모가 결정되는 경우가 많다. 이번 프로젝트가 위치한 대지는 18m×8.4m 규모의 작은 코너 대지로, 일부 모서리가 절제된 비정형의 형상을 가지고 있다. 이 프로젝트 역시 최대 건폐율과 최대 용적률을 확보해야 한다는 우선순위 아래, 건축의 규모와 형태가 상당 부분 선결된 상태에서 출발하였다.\n법규상 이 대지에는 일반적으로 3층 규모의 건축물을 올릴 수 있다. 그러나 주변에는 1970~90년대에 형성된 5층 규모의 오래된 건물들이 연속적인 가로 환경을 이루고 있다. 이러한 맥락 속에서 법규가 허용하는 범위만을 기준으로 3층 규모의 작은 건물을 배치하는 것은, 결과적으로 주변 도시 조직과 단절된 독립적인 오브제를 만드는 일에 가깝다. 따라서 이 프로젝트는 법적 조건을 충족하는 것에 그치지 않고, 제한된 규모 안에서 주변의 높이, 밀도, 그리고 거리의 연속성과 어떻게 관계 맺을 것인가를 중요한 설계의 출발점으로 삼았다."
+        },
+        { "type": "image", "src": "images/projects/1712C_TPFL/TPFL_img2.webp" },
+        {
+          "type": "text",
+          "title_en": "Three Planes, Five Layers",
+          "title_ko": "세 개의 면, 다섯 개의 켜",
+          "body_en": "Rather than passively accepting the constraints of building regulations, this project begins by converting them into an architectural principle. From this approach emerged the concept of “Three Planes, Five Layers,” a system that integrates function, structure, and form into a single order.\nThe three planes are the primary elements that define both the form and the structure of the building. As segmented yet independent elements, they establish the overall figure of the building while clearly articulating the hierarchy of its entrances: the main entrance is emphasized by the mass of the three planes, while the commercial entrance at the angled corner is defined by two projecting planes. The exterior stair leading to the second floor further clarifies this relationship by forming an open space between them.\nThese planes do not remain formal devices alone, but operate as the building’s principal structural elements. To preserve the consistency of the concept, the project adopts a wall structure instead of the conventional rigid frame system, allowing the three planes to become both the form that expresses the architectural idea and the structure that physically sustains it.",
+          "body_ko": "이 프로젝트는 건축법의 제약을 수동적으로 따르기보다, 그것을 역으로 건축의 원리로 전환하는 데서 출발하였다. 그 결과 건축의 기능, 구조, 형식을 하나의 질서로 통합하는 개념으로서 ‘세 개의 면, 다섯 개의 켜’가 도출되었다.\n세 개의 면은 이 건축의 형태와 구조를 동시에 규정하는 핵심 요소이다. 분절된 세 개의 면은 건물의 전체 형상을 형성하는 동시에 진입부의 위계를 명확히 드러내며, 주출입구와 각진 모서리의 상가 출입구는 각각 독립된 면과 돌출된 두 개의 면에 의해 강조된다. 또한 2층으로 연결되는 외부계단은 두 면 사이의 열린 공간을 통해 이 관계를 더욱 선명하게 드러낸다.\n이 면들은 단지 조형적 장치에 머무르지 않고 건축물의 주요 구조체로 작동한다. 프로젝트는 개념의 일관성을 유지하기 위해 일반적인 기둥-보 구조 대신 벽체 구조를 채택하였으며, 그 결과 세 개의 면은 건축적 개념을 드러내는 형식이자 이를 실질적으로 지지하는 구조가 되었다."
+        },
+        { "type": "image", "src": "images/projects/1712C_TPFL/TPFL_img3.webp" },
+        { "type": "image", "src": "images/projects/1712C_TPFL/TPFL_img4.webp" },
+        {
+          "type": "text",
+          "title_en": "Layers of Function, Structure, and Form",
+          "title_ko": "기능, 구조, 형식의 켜",
+          "body_en": "The five layers are the result of a coordinated relationship between function, structure, and form. At the fourth level, building regulations require the mass to take on a sloped profile, introducing variation into the overall figure of the building and giving tension to what might otherwise remain a flat volume. Above the three-story body of the building, the inverted beam of the inclined upper mass and the columns supporting it generate five layers, transforming this condition into an element that organizes both architectural function and structural logic.\nThese layers add depth and variation to the elevation while also accommodating exterior lighting and supporting activity in the outdoor space. At the same time, they serve as a passage for rainwater pipes and air-conditioning lines, and provide structural reinforcement to the inclined fourth-floor mass, which could otherwise remain vulnerable due to its curtain wall construction and limited wall volume. In this way, the completed building establishes a measured relationship with its urban surroundings. Although the building is four stories in scale, the three planes that define its elevation rise to the height of five stories, aligning it with the larger scale of the street, while the red-colored concrete block relates materially to the existing brick buildings nearby.",
+          "body_ko": "다섯 개의 켜는 기능, 구조, 그리고 형식이 동시에 조율된 결과이다. 4층은 건축법에 의해 경사진 매스를 형성하게 되는데, 이는 건물의 전체 형상에 변화를 부여하며 자칫 단조로울 수 있는 볼륨에 긴장을 만든다. 또한 3층 건물 위에 얹힌 사선 매스의 역보와 이를 지지하는 기둥은 다섯 개의 켜를 형성하며, 이 요소는 단순한 조형을 넘어 건축의 기능과 구조를 함께 조직한다.\n이 켜는 입면에 깊이와 다양성을 부여하는 동시에, 외부조명을 설치할 수 있는 공간이자 외부 활동을 수용하는 장치로 작동한다. 동시에 우수관과 에어컨 배관이 통과하는 설비의 통로가 되며, 벽체량이 적은 커튼월 구조로 인해 상대적으로 취약할 수 있는 4층 사선 매스에 구조적 보강의 역할도 수행한다. 이와 같이 형성된 건축은 주변 도시 환경과도 조화를 이룬다. 건물의 규모는 4층이지만, 입면을 구성하는 세 개의 면은 5층 높이의 질서를 형성하여 주변 도시의 스케일과 관계를 맺고, 붉은 색의 칼라 콘크리트 블록은 기존 벽돌 건축물의 맥락과도 연결된다."
+        },
+        { "type": "image", "src": "images/projects/1712C_TPFL/TPFL_img5.webp" },
+        { "type": "image", "src": "images/projects/1712C_TPFL/TPFL_img6.webp" },
+        {
+          "type": "text",
+          "title_en": "Planes and Layers in Detail",
+          "title_ko": "디테일에 스며든 면과 켜",
+          "body_en": "The concepts of planes and layers that organize the building as a whole are carried through consistently into its individual parts. The exterior stair is one of the clearest expressions of the idea of layering. Set slightly apart from the plane formed by the colored concrete block, a glass surface cut to follow the profile of the stair creates an additional layer, while the dark granite paving below acts as a background that further clarifies this relationship.\nThe joints of the colored concrete block that shape the exterior are also treated as a metaphor for the layered accumulation of masonry. To articulate this idea, dark gray joints and brick-colored joints are used in different ways. The brick-colored joints are finished flush, allowing the surface to be read as a continuous plane, while the dark gray joints are recessed to produce a tactile horizontal line that expresses the process of masonry being built up layer by layer. In this way, the concepts of plane and layer do not remain at the level of overall form, but extend into material treatment and detailing, where they complete the architectural idea.",
+          "body_ko": "건축 전체를 구성하는 면과 켜의 개념은 건물의 부분적 요소에도 일관되게 적용되었다. 외부 계단은 그중에서도 켜의 개념이 가장 직접적으로 드러나는 장면이다. 칼라콘크리트 블록이 형성하는 면과 일정한 간격을 두고 설치된, 계단 형상으로 절단된 유리의 면은 중첩된 켜를 이루며, 바닥에 시공된 어두운 마천석은 그 배경이 되어 이 관계를 더욱 선명하게 드러낸다.\n외형을 구성하는 칼라콘크리트 블록의 줄눈 역시 조적이 층층이 쌓여가는 방식을 은유적으로 표현한다. 이를 위해 진회색 줄눈과 벽돌색 줄눈이 서로 다른 방식으로 사용되었다. 벽돌색 줄눈은 민줄눈으로 처리되어 블록의 표면을 하나의 연속된 면으로 인식하게 하고, 진회색 줄눈은 옥목줄눈으로 시공되어 입체감 있는 수평선을 형성함으로써 벽돌이 켜켜이 축적되는 과정을 드러낸다. 이와 같이 면과 켜의 개념은 전체 형상에 머무르지 않고, 재료와 디테일의 수준까지 관통하며 건축의 완성도를 구성한다."
+        }
+      ]
+    },
+    {
+      "slug": "2509P_Welfare",
+      "id": "#08",
+      "title": "월드비전 무진종합사회복지관",
+      "location": "Mujin, Korea",
+      "year": "2025",
+      "category": "competition" ,
+      "status": "unbuilt",
+      "image": "images/projects/2509P_Welfare/welfare_main.webp",
+      "contents": [
+        {
+          "type": "text",
+          "title_en": "Connecting Through Emptiness",
+          "body_en": "A welfare center should not be understood as a simple public building that merely accommodates programs. It must function as a platform where different rhythms of life and social conditions meet within a local community. Because children and the elderly, families and individuals, those seeking help and those offering support all come into relationship within the same building, the architecture of a welfare center cannot be explained only through functional efficiency. What matters is not simply how many rooms are provided, but how diverse activities are allowed to coexist and connect within a shared atmosphere. This project responds to that question by reinterpreting the space of welfare not as an enclosed service facility, but as an open place for community.\nThe central idea of the project is to organize relationships within the building through a large, vertically articulated communal void, rather than enclosing the architecture as a single solid mass. Each floor is arranged around this central space, and the corridors are conceived not as mere routes of circulation, but as open perimeter walks where the presence of others can be sensed. As a result, the building is read not as a collection of separate rooms, but as a social structure in which diverse programs are loosely connected within a shared spatial scene. In particular, the tall central atrium gathers daylight, sightlines, and movement into one spatial experience, revealing that this welfare center is not simply an institution for specific functions, but a large interior plaza that accommodates everyday life and collective activity within the community.\nThis spatial composition can also be understood as an architectural translation of the very nature of welfare. Welfare is not an invisible service processed individually behind closed doors, but a social practice grounded in respect for one another’s presence and in the restoration of relationships. Accordingly, this architecture does not merely divide programs into separate rooms; instead, it allows different activities to coexist at an appropriate distance while carefully designing the gaps and shared zones between them. The emptied center, the open corridors, and the visual continuity across floors all work as devices that soften psychological distance between people and gradually recover a sense of community. Ultimately, this welfare center is not only a building that accommodates functions, but an architecture that asks how people might exist together."
+        },
+         {
+          "type": "text",
+          "title_ko": "비움으로 연결하는 사회복지관",
+          "body_ko": "사회복지관은 프로그램을 수용하는 단순한 공공건축이 아니라, 지역사회 안에서 서로 다른 삶의 속도와 조건이 만나는 플랫폼이어야 한다. 아동과 노인, 가족과 개인, 도움을 요청하는 사람과 그것을 지원하는 사람이 한 건물 안에서 관계를 맺는다는 점에서, 사회복지관의 건축은 기능의 효율만으로 설명될 수 없다. 중요한 것은 얼마나 많은 실을 배치했는가보다, 그 다양한 활동들이 어떠한 분위기 속에서 공존하고 연결되는가에 있다. 이 작품은 그러한 질문에 대해, 복지의 공간을 폐쇄된 서비스 시설이 아니라 열린 공동체의 장소로 재해석함으로써 응답한다.\n이 계획의 핵심은 건물을 하나의 단일한 덩어리로 닫는 대신, 중심을 비워낸 큰 입체적 공용공간을 통해 내부의 관계를 조직하는 데 있다. 각 층은 이 중심 공간을 둘러싸며 배치되고, 복도는 단순한 이동의 통로가 아니라 서로의 존재를 감지하는 열린 둘레길이 된다. 그 결과 건물은 방들의 집합이 아니라, 다양한 프로그램이 하나의 공유된 장면 속에서 느슨하게 연결되는 사회적 구조로 읽힌다. 특히 중앙의 높은 아트리움은 채광과 시선, 움직임을 한데 엮으며, 이 복지관이 특정 기능을 수행하는 기관이기 이전에 지역의 일상과 공동체 활동을 수용하는 큰 실내 광장임을 드러낸다.\n이러한 공간 구성은 복지의 본질을 공간적으로 번역한 결과이기도 하다. 복지는 보이지 않는 곳에서 개별적으로 처리되는 서비스가 아니라, 서로의 존재를 존중하고 관계를 회복시키는 사회적 실천이다. 따라서 이 건축은 프로그램을 구획하는 대신, 서로 다른 활동들이 적절한 거리 속에서 병존하도록 하며, 그 사이의 틈과 공유 영역을 적극적으로 설계한다. 비워진 중심, 열린 복도, 층간의 시각적 연속성은 모두 사람과 사람 사이의 심리적 거리를 완화하고, 공동체적 감각을 서서히 회복시키는 장치로 작동한다. 결국 이 사회복지관은 무엇을 수용하는 건물인가를 넘어, 어떻게 함께 존재할 것인가를 묻는 건축이라 할 수 있다."
+        },
+        { "type": "image", "src": "images/projects/2509P_Welfare/welfare_img1.webp" },
+        { "type": "image", "src": "images/projects/2509P_Welfare/welfare_img2.webp" },
+        { "type": "image", "src": "images/projects/2509P_Welfare/welfare_img3.webp" },
+        {
+          "type": "text",
+          "title_en": "A Vertically Organized Community",
+          "body_en": "The most evident spatial strategy of this project lies in its organization of the welfare center’s community not through a horizontal arrangement, but through a vertical section. While many conventional welfare facilities remain limited to floor-by-floor program separation and corridor-based plans, this proposal creates a three-dimensional communal structure by stacking each level around a large central void and allowing them to reveal one another. In this scheme, the void is not merely an empty space, but a critical device that simultaneously brings in daylight and ventilation while enabling visual overlap, exposure of activity, and mutual awareness. People may remain on a single floor, yet still sense activities taking place on others, and the building as a whole is perceived not as a parallel arrangement of separate rooms, but as one continuous social scene.\nIn particular, the balcony-like circulation around the atrium and the multi-layered common zones actively redefine the idea of the corridor. Movement here is not reduced to functional passage, but becomes a communal experience that includes staying, observing, and unexpected encounters. The structure in which users of different ages and conditions share the same central space and indirectly perceive one another creates both the psychological openness and the sense of social security that a welfare center should provide. This also resonates with the understanding that welfare should not be confined to the private delivery of assistance, but should take place within a public field of relationships.\nThe proportions and openness of the central space, the natural light introduced through the skylight above, and the arrangement of each floor opening toward the center all demonstrate how carefully this building has been conceived in section. The essence of the project lies not in its envelope, but in its section. This three-dimensional section functions as a device that organizes programs efficiently by floor while preventing them from becoming disconnected. In other words, this work understands the structure of a welfare center not as an “arrangement of rooms,” but as a “section of relationships,” and that attitude determines the spatial order of the building as a whole."
+        },
+         {
+          "type": "text",
+          "title_ko": "수직적으로 조직된 공동체",
+          "body_ko": "이 작품이 가장 분명하게 보여주는 공간적 전략은 사회복지관의 공동체를 수평이 아닌 수직적 단면으로 조직한다는 점이다. 일반적인 복지시설이 층별 프로그램 분리와 복도식 평면에 머무르는 경우가 많다면, 이 계획은 중앙의 큰 보이드 공간을 중심으로 각 층을 중첩시키고 서로를 드러내는 방식으로 공동체의 입체적 구조를 만든다. 이때 보이드는 단지 비어 있는 공간이 아니라, 채광과 환기, 시선의 교차, 행위의 노출과 인지를 동시에 일으키는 핵심 장치가 된다. 사람들은 한 층에 머물러 있으면서도 다른 층의 활동을 느끼고, 건물 전체는 개별 실들의 병렬이 아니라 하나의 연속된 사회적 장면으로 인식된다.\n특히 아트리움을 둘러싼 발코니형 순환 동선과 다층의 공용 영역은 ‘복도’의 개념을 적극적으로 전환한다. 이곳에서 이동은 단순한 기능적 연결이 아니라 머묾과 관찰, 우연한 만남을 포함하는 공동체적 경험이 된다. 다양한 연령과 조건을 지닌 이용자들이 같은 중심 공간을 공유하며 서로의 존재를 간접적으로 인식하는 구조는, 사회복지관이 제공해야 할 심리적 개방성과 사회적 안전감을 동시에 형성한다. 이는 복지가 사적인 도움의 제공을 넘어, 공적인 관계의 장 안에서 이루어져야 한다는 인식과도 맞닿아 있다.\n중심 공간의 비례와 개방감, 상부의 천창을 통한 자연광 유입, 그리고 각 층에서 중심을 향해 열리는 배치는 이 건물이 단면적으로 얼마나 치밀하게 사고되었는지를 보여준다. 건물의 핵심은 외피가 아니라 단면 안에 있다. 이 입체적 단면은 프로그램들을 층별로 효율적으로 배치하면서도, 서로를 단절시키지 않는 장치로 기능한다. 다시 말해 이 작품은 사회복지관의 구조를 ‘방의 배열’이 아니라 ‘관계의 단면’으로 이해하고 있으며, 그러한 태도가 건물 전체의 공간 질서를 결정한다."
+        },
+        { "type": "image", "src": "images/projects/2509P_Welfare/welfare_img4.webp" },
+        { "type": "image", "src": "images/projects/2509P_Welfare/welfare_img5.webp" },
+        { "type": "image", "src": "images/projects/2509P_Welfare/welfare_img6.webp" },
+        {
+          "type": "text",
+          "title_en": "The Atrium Extended Outward",
+          "body_en": "Another compelling aspect of this proposal is the way it extends its communal interior spaces beyond the building envelope into the rooftop garden, terraces, and exterior decks, organizing the entire building as a kind of three-dimensional courtyard. A welfare center is a place where people spend long periods of time—waiting, meeting, resting, and staying. What is therefore required is not simply a sufficient number of functional rooms, but a series of buffer spaces and scenes of spatial generosity that allow for non-programmed occupation. By distributing such places throughout both the interior and exterior, the project proposes an environment that carries the warmth of daily life and the rhythm of community, rather than the rigid atmosphere often associated with welfare facilities.\nThe garden and resting areas on the roof are not merely supplementary amenities, but important spaces that vertically extend the building’s public character. If the interior atrium acts as the visual center that binds the community together, the rooftop courtyard draws sky, trees, and wind into the architecture while opening the everyday life of the welfare center outward. The greenery and places of rest located at the top of the building spatially express the values of emotional recovery and psychological stability, which are often overlooked in facilities focused primarily on program. This reflects an understanding of welfare not simply as a support system, but as an environmental condition for restoring quality of life.\nAt the same time, the piloti facing outward and the transparent lower level soften the boundary between city and building. Welfare centers can often appear as closed institutions intended only for specific users, but this project lifts the building and opens the ground floor, creating a loose continuity between the street, the public pedestrian realm, and the life of the interior. Such a composition suggests that a welfare center should not be perceived as an unfamiliar or isolated facility within the neighborhood, but as an open public building whose presence can be approached, passed by, and recognized by anyone. In this project, the courtyard is no longer simply an empty space outside the building, but is expanded into a spatial device of welfare that connects interior and exterior, program and rest, individual and community."
+        },
+         {
+          "type": "text",
+          "title_ko": "외부로 확장되는 아트리움",
+          "body_ko": "이 계획이 인상적인 또 하나의 이유는 내부의 아트리움을 단지 실내에 머무르게 하지 않고, 옥상정원과 테라스, 외부 데크로 확장하여 건물 전체를 하나의 입체적 마당으로 조직하고 있다는 점이다. 사회복지관은 오랜 시간 머물고, 기다리고, 만나고, 쉬는 건물이다. 따라서 필요한 것은 기능실의 숫자만이 아니라, 비목적적인 체류를 가능하게 하는 완충 공간과 여유의 장면이다. 이 작품은 그러한 공간을 실내외 곳곳에 배치하며, 복지시설 특유의 경직된 분위기 대신 생활의 온도와 공동체의 리듬을 담아내는 환경을 제안한다.\n 옥상에 조성된 정원과 휴게공간은 단순한 부가시설이 아니라, 이 건축의 공공성을 수직적으로 연장하는 중요한 장소다. 내부 아트리움이 공동체를 시각적으로 묶는 중심이라면, 옥상 마당은 하늘과 나무, 바람을 건축 안으로 끌어들이며 복지관의 일상을 바깥으로 열어 보낸다. 건물의 가장 높은 곳에 배치된 녹지와 휴식의 장면은, 프로그램 중심의 시설이 놓치기 쉬운 감정적 회복과 정서적 안정의 가치를 공간적으로 드러낸다. 이는 복지를 단순한 지원 체계가 아니라 삶의 질을 회복하는 환경적 조건으로 이해하는 태도와 연결된다.\n또한 외부에 면한 필로티와 투명한 저층부는 도시와 건물 사이의 경계를 완화한다. 복지관은 종종 특정 이용자만 드나드는 폐쇄적 기관으로 보이기 쉽지만, 이 작품은 1층을 열고 건물을 들어 올림으로써 거리와 공공 보행 영역, 실내 활동 사이에 느슨한 연속성을 만든다. 이러한 구성은 사회복지관이 지역사회 속에 놓인 낯선 시설이 아니라, 누구나 접근하고 스쳐 지나며 존재를 인지할 수 있는 열린 공공건축이어야 한다는 입장을 보여준다. 결국 이 건축에서 마당은 더 이상 건물 바깥의 빈 공간이 아니라, 실내와 실외, 프로그램과 휴식, 개인과 공동체를 이어주는 복지의 공간 장치로 확장된다."
+        },
+        { "type": "image", "src": "images/projects/2509P_Welfare/welfare_img7.webp" },
+        { "type": "image", "src": "images/projects/2509P_Welfare/welfare_img8.webp" },
+        {
+          "type": "text",
+          "title_en": "Silent Symbolism",
+          "body_en": "The form and material language of this project focus less on dramatic formal gestures and more on creating the sense of stability and familiarity appropriate to a welfare center. The building is generally composed as a mass of red brick, while the interior introduces bright plastered surfaces, wooden floors, and furniture in warm tones, producing an atmosphere that is calm yet inclusive. From the outside, the building appears clear and solid; once inside, however, the softness created by light and material transforms its character. This contrast reflects an intention to secure both the order of public architecture and the warmth of welfare space at once.\nIn particular, the brick façade is disciplined through a repetitive vertical rhythm, giving the building a composed expression while avoiding an impression that is overly authoritative or cold. Rather than proclaiming symbolism loudly, it establishes architectural trust through ordinary materials and restrained composition alone. The interior is likewise unified through a language of structure, finishes, and furniture that is never exaggerated, allowing users to understand the spatial order naturally and without psychological burden. In a welfare center, stability matters more than monumentality, and comfort in use is more important than decoration.\nMeanwhile, the message walls and the scenes of gathering that appear throughout the building suggest that this welfare center is more than an administrative or counseling facility; it is also a place where shared values and collective vision can be expressed. Yet this symbolic dimension never overwhelms the architecture itself. Instead, it finds meaning naturally within the everyday scenes created by the central atrium, the multipurpose hall, and the open corridors and terraces. Rather than displaying symbolism as form, the project reveals institutional identity through the ways people stay, meet, and gather together. Ultimately, the strength of this work lies in the fact that it does not speak of the value of welfare through abstract concepts, but quietly embodies it through light and material, openness and order, and the spatial choreography of relationships and dwelling."
+        },
+         {
+          "type": "text",
+          "title_ko": "침묵하는 상징",
+          "body_ko": "이 작품의 형태와 재료는 과도한 조형적 제스처보다, 사회복지관이라는 용도에 걸맞은 안정감과 친밀감을 만드는 데 집중한다. 전체적으로 붉은 벽돌의 매스를 기본으로 하면서, 내부에는 밝은 미장면과 목재 바닥, 따뜻한 톤의 가구를 배치해 차분하면서도 포용적인 분위기를 형성한다. 외부에서의 인상은 명확하고 단단하지만, 내부로 들어서면 빛과 재료가 만드는 부드러운 감각이 건물의 성격을 바꾼다. 이러한 대비는 공공건축으로서의 질서와 복지공간으로서의 온기를 동시에 확보하려는 의도다.\n특히 벽돌 입면은 반복되는 수직 리듬을 통해 건물의 표정을 단정하게 정리하면서도, 지나치게 권위적이거나 차가운 인상을 피한다. 이는 상징을 크게 외치는 방식이 아니라, 일상적인 재료와 절제된 구성만으로 건축의 신뢰감을 형성하는 태도다. 내부 역시 구조와 마감, 가구가 과장되지 않은 언어로 통일되어 있어, 이용자에게 심리적 부담을 주지 않고 공간의 질서를 자연스럽게 이해하게 만든다. 사회복지관에서는 기념비성보다 안정감이, 장식보다 사용의 편안함이 중요하다. \n한편, 건물 곳곳에 드러나는 메시지월과 집회적 공간의 장면은 이 복지관이 단순한 행정·상담 시설을 넘어, 공동의 가치와 비전을 나누는 장소임을 암시한다. 그러나 그 상징은 건축 형식 자체를 압도하지 않는다. 오히려 중심 아트리움, 다목적 홀, 열린 복도와 테라스가 만들어내는 일상의 장면 속에서 자연스럽게 의미를 얻는다. 이것은 상징을 조형으로 과시하기보다, 사람들이 머물고 만나고 함께하는 방식 속에서 기관의 정체성을 드러내는 건축적 태도라 할 수 있다. 결국 이 작품의 미덕은 복지의 가치를 추상적 개념으로 말하지 않고, 빛과 재료, 개방성과 질서, 관계와 체류의 방식으로 조용히 구현한다는 데 있다."
+        }
+      ]
+    },
+    {
+      "slug": "2410C_Culture_Center",
+      "id": "#07",
+      "title": "산청 행복문화센터",
+      "location": "Sancheong, Korea",
+      "year": "2025",
+      "category": "competition",
+      "status": "unbuilt",
+      "image": "images/projects/2410C_Culture_Center/Culture_Center_main.webp",
+      "contents": [
+        {
+          "type": "text",
+          "title_en": "Elevated Parkscape",
+          "title_ko": "공원화된 지면",
+          "body_en": "The central strategy of this project lies not only in the building itself, but in foregrounding the public character of the cultural complex through a park-like elevated exterior ground. While the exhibition hall, classrooms, and performance spaces are consolidated within a single mass, the surrounding site is not treated as residual open space, but reorganized as a landscaped field of cultural occupation. In particular, the project draws from the role played by Marronnier Park in Seoul’s Hyehwa theater district, where people gather, wait, and form the atmosphere of the street outside the performance venue.\nFor this reason, the ground is reconfigured as a sequence of promenade, plaza, garden, and sloped terrain, while the park-like exterior becomes another cultural platform positioned alongside the indoor program. This space accommodates waiting, gathering, small-scale events, and everyday occupation before and after performances, forming an open base that allows participation in the atmosphere of the facility even without entering the building. As a result, the project does not confine the center of the complex to the interior alone, but extends it into a landscaped exterior domain, organizing the relationship between city and cultural program in a looser and more continuous way.",
+          "body_ko": "이 프로젝트의 핵심은 건물 자체보다, 상부를 공원화한 외부공간을 통해 복합문화시설의 공공성을 선행시키는 데 있다. 전시관, 교육실, 공연장이 수용되는 내부 프로그램은 하나의 매스 안에 집약되지만, 그 매스를 둘러싼 대지는 단순한 잔여 외부공간이 아니라 문화적 이용이 일어나는 공원적 기반으로 다시 조직된다. 특히 서울 혜화 극장가에서 마로니에공원이 수행해온 역할, 즉 공연장 바깥에서 사람들이 만나고 머물며 거리의 분위기를 형성하는 장면을 이 프로젝트의 공간 전략 안으로 끌어들이고자 했다.\n이를 위해 지면은 산책로, 광장, 마당, 경사 공간으로 재구성되며, 상부의 공원화된 외부영역은 실내 프로그램과 병치되는 또 하나의 문화 플랫폼으로 작동한다. 이 외부공간은 공연 전후의 대기와 집합, 소규모 행사, 일상적 체류를 수용하며, 건물에 들어가지 않더라도 문화시설의 분위기와 활동에 참여할 수 있는 열린 기반을 형성한다. 결과적으로 이 계획은 복합문화시설의 중심을 실내에만 두지 않고, 공원화된 외부공간까지 확장함으로써 도시와 문화 프로그램 사이의 관계를 보다 느슨하고 지속적인 방식으로 조직한다."
+        },
+        { "type": "image", "src": "images/projects/2410C_Culture_Center/Culture_Center_img1.webp" },
+        {
+          "type": "text",
+          "title_en": "Overlapping Programs",
+          "title_ko": "중첩된 프로그램",
+          "body_en": "This project is not a mixed-use facility that simply places an exhibition hall, classrooms, and a performance space side by side, but a cultural complex organized so that different cultural programs overlap within a single structure. The key lies not in the juxtaposition of functions, but in the transformation of modes of use. Exhibition produces a rhythm of viewing and pause, education forms a density of repeated occupation and learning, and performance creates scenes of concentration and gathering. Rather than separating these differing conditions, the project arranges them as gradual transitions within a single architectural framework.\nIn particular, the black box theater is not based on a fixed format. By allowing the relationship between stage and audience to shift, the space operates not as a singular theater, but as a device for accommodating multiple programs. It supports not only changes in performance format—such as proscenium, thrust, runway, and arena—but also adjustments in the distance between audience and action itself. As a result, the building is read not as a facility divided by use, but as a structure in which the production and reception of culture can be continuously reconfigured.",
+          "body_ko": "이 프로젝트는 전시관, 교육실, 공연장을 단순히 나열하는 복합시설이 아니라, 서로 다른 문화 프로그램이 하나의 구조 안에서 중첩되도록 조직한 복합문화시설이다. 핵심은 기능의 병치가 아니라, 사용 방식의 전환에 있다. 전시는 머무름과 관람의 리듬을 만들고, 교육은 반복적 체류와 학습의 밀도를 형성하며, 공연은 집중과 집합의 장면을 만들어낸다. 이 계획은 그 상이한 성격을 분리하기보다, 하나의 건축 안에서 단계적으로 전환되도록 배치한다.\n특히 블랙박스 공연장은 고정된 형식을 전제로 하지 않는다. 객석과 무대의 관계를 가변적으로 전환할 수 있도록 계획함으로써, 이 공간은 단일한 공연장이 아니라 프로그램 수용의 장치로 작동한다. 프로시니엄, 트러스트, 런웨이, 아레나 등 다양한 공연 형식의 변화뿐 아니라, 관객과 행위 사이의 거리 자체를 조정한다. 결과적으로 이 시설은 용도별로 분할된 건물이 아니라, 문화 생산과 수용의 방식이 유동적으로 재구성되는 구조로 읽힌다."
+        },
+        { "type": "image", "src": "images/projects/2410C_Culture_Center/Culture_Center_img2.webp" },
+        { "type": "image", "src": "images/projects/2410C_Culture_Center/Culture_Center_img3.webp" },
+        {
+          "type": "text",
+          "title_en": "Dark Box, Bright Interior",
+          "title_ko": "어두운 상자, 밝은 내부",
+          "body_en": "From the outside, the building is perceived as a closed dark mass. Its vertically textured façade minimizes openings and compresses the density of the interior program within a controlled envelope. Rather than relying on excessive symbolism or fragmented formal gestures often associated with cultural buildings, the exterior seeks architectural autonomy through a single strong volume and the repetition of material. Within the city, the building is read first through its physical presence rather than through an explanatory image.\nInside, however, a different spatial condition unfolds. The exhibition rooms, classrooms, and resting areas are formed as calm spaces of occupation through bright surfaces, even light, and restrained detail. In particular, the contrast between the darkened theater interior and the white educational and exhibition spaces makes each program’s spatial condition explicit while maintaining the tension of the whole. Material in this project is used to privilege operation over ornament, and atmosphere over formal display. Ultimately, the building does not express complexity through outward fragmentation, but through the quiet contrast and transition between different spatial conditions.",
+          "body_ko": "건물은 외부에서 닫힌 검은 매스로 인식된다. 수직적 결을 가진 입면은 개구부를 절제하며, 내부 프로그램의 밀도를 외피 안에 응축한다. 이 외관은 복합문화시설에 흔히 요구되는 과도한 상징이나 조형적 분절 대신, 하나의 강한 볼륨과 재료의 반복을 통해 건축의 자율성을 확보하려는 태도에 가깝다. 도시 안에서 건물은 설명적인 표정보다 물리적 존재감으로 먼저 읽힌다.\n반면 내부는 이와 다른 방식으로 전개된다. 전시실, 교육실, 휴게공간은 밝은 표면과 균질한 빛, 절제된 디테일을 통해 차분한 수용 공간으로 형성된다. 특히 공연장의 암전된 내부와 백색의 교육·전시 공간 사이의 대비는, 프로그램별 사용 조건을 분명하게 드러내면서도 건물 전체의 긴장을 유지한다. 이 프로젝트의 물성은 장식보다 작동을 우선하며, 형태보다 분위기를 통해 문화시설의 성격을 조직한다. 결국 이 건축은 복합성을 외형의 분절로 드러내지 않고, 서로 다른 공간 조건의 대비와 전환 속에서 조용히 구성한다."
+        },
+         { "type": "image", "src": "images/projects/2410C_Culture_Center/Culture_Center_img4.webp" },
+        { "type": "image", "src": "images/projects/2410C_Culture_Center/Culture_Center_img5.webp" },
+        { "type": "image", "src": "images/projects/2410C_Culture_Center/Culture_Center_img6.webp" }
+      ]
+    },
+    {
+      "slug": "2311A_APC",
+      "id": "#07",
+      "title": "화성푸드통합지원센터",
+      "location": "Hwaseong, Korea",
+      "year": "2025",
+      "category": "competition",
+      "status": "unbuilt",
+      "image": "images/projects/2311A_APC/APC_main.webp",
+      "contents": [
+        {
+          "type": "text",
+          "title_en": "Infrastructure of Circulation",
+          "title_ko": "순환의 기반",
+          "body_en": "This project expands the existing agricultural direct-sales market into a food center, reorganizing it as an infrastructural base through which individual farmers can connect directly to the city. Its focus lies less in the act of sale itself than in establishing a stable system that supports the entire process by which goods arrive, are sorted, and are redistributed. The architectural core is therefore placed in the logistics center at the lower level, which operates not as a simple storage space but as a practical hub that allows small-scale local producers to maintain their own autonomy while accessing a broader urban distribution network. The office space above manages, coordinates, and supports the overall system. In this sense, the project does not conceal the back-of-house processes of agricultural distribution, but reveals them as a fundamental device for sustaining the regional structure of production. The value of this food center lies less in the impression of the sales space than in how precisely it establishes the infrastructural basis of circulation between individual farmers and urban consumers.",
+          "body_ko": "이 프로젝트는 기존 농산물 직판장의 자리에 푸드센터를 증축하면서, 개별 농부의 생산물이 도시로 직접 연결될 수 있는 유통의 기반을 새롭게 조직한다. 핵심은 판매의 장면 자체보다, 생산물이 도착하고 분류되고 다시 배분되는 과정 전체를 안정적으로 지지하는 구조를 만드는 데 있다. 따라서 건축의 중심은 하부의 물류센터에 놓이며, 이곳은 단순한 저장 공간이 아니라 지역의 소규모 생산자들이 각자의 단위를 유지한 채 보다 넓은 도시 유통망과 접속할 수 있게 하는 실질적 허브로 작동한다. 상부의 사무공간은 운영과 관리, 지원 체계를 담당하며 전체 시스템을 조직한다. 결국 이 프로젝트는 농업 유통의 후면 공간을 숨기지 않고, 그것이 지역 생산 구조를 지속시키는 핵심 장치임을 건축적으로 드러낸다. 이 푸드센터의 가치는 판매 공간의 인상보다, 개별 농부와 도시 소비자 사이에 필요한 순환의 기반을 얼마나 정확히 마련하느냐에 있다."
+        },
+        { "type": "image", "src": "images/projects/2311A_APC/APC_img1.webp" },
+        { "type": "image", "src": "images/projects/2311A_APC/APC_img2.webp" },
+        {
+          "type": "text",
+          "title_en": "Cultivated Publicness",
+          "title_ko": "재배된 공공성",
+          "body_en": "The defining characteristic of this architecture lies in the fact that its publicness is formed less through interior programs than through exterior spaces and the operational structure that supports them. The office space on the second floor is not merely administrative, but acts as the managerial center supporting direct trade, events, experiences, and exchange taking place outside. Public activity therefore extends beyond fixed interior rooms across terraces, cultivated fields, stepped terrain, and open platforms. In particular, the exterior spaces—where cultivation and sale, rest and seasonal events overlap—allow this food center to be read as more than a logistics facility. The planted roof, stepped growing fields, long sales booths, and open courtyard bring scenes of production and exchange into everyday urban life, reconstituting the exterior as an open agricultural landscape.",
+          "body_ko": "이 건축의 특징은 공공성이 내부 프로그램보다 외부공간과 그것을 뒷받침하는 운영 구조를 통해 형성된다는 점에 있다. 2층의 사무공간은 단순한 업무 영역이 아니라, 외부에서 이루어지는 직거래와 행사, 체험과 교류를 지원하는 관리의 중심으로 작동한다. 따라서 이 프로젝트의 공공적 활동은 실내의 고정된 프로그램실에 머무르지 않고, 테라스와 경작 공간, 계단형 지형과 열린 플랫폼을 따라 자연스럽게 확장된다. 이곳에서 농민과 도시민의 만남은 별도의 연출보다 공간의 구조 속에서 일상적으로 발생하며, 건축은 그러한 관계가 지속될 수 있도록 내외부의 접속을 조직한다. 특히 경작과 판매, 휴식과 계절 행사가 중첩되는 외부공간은 이 푸드센터를 단순한 물류시설 이상의 존재로 만든다. 상부의 녹화된 지붕과 계단형 재배 공간, 길게 이어진 판매부스와 열린 마당은 생산과 교환의 장면을 도시의 일상 속에 드러낸다. 이처럼 건축은 외부공간 전체를 하나의 열린 농업 풍경으로 재구성한다. 결국 이 프로젝트는 생산과 유통의 체계를 실용적으로 담아내는 동시에, 그것이 도시 안에서 공공적 경험으로 확장될 수 있는 조건을 함께 만드는 건축이라 할 수 있다."
+        },
+        { "type": "image", "src": "images/projects/2311A_APC/APC_img3.webp" },
+        { "type": "image", "src": "images/projects/2311A_APC/APC_img4.webp" },
+        {
+          "type": "text",
+          "title_en": "Seasonal Façade",
+          "title_ko": "계절의 입면",
+          "body_en": "The façade of this project is not defined solely by a fixed envelope. Its expression changes through cultivated exterior spaces, planting surfaces, and growing fields, becoming an architectural device that reveals the temporal cycle of agriculture. The planted roof, stepped cultivation areas, exterior terraces, and open platforms are not merely auxiliary spaces, but conditions through which the rhythms of farming become visible within the city. Rather than presenting a single completed image, the building is continuously re-read through shifting densities, colors, and textures across the seasons.\nThis transformation is not a decorative effect, but emerges from the way cultivation itself is exposed on the exterior. Sowing, growth, harvest, and seasonal dormancy alter the surface of the cultivated fields, allowing visitors to perceive the four seasons of farming directly through architectural change. In this way, the façade is redefined not simply as a boundary between inside and outside, but as a surface that holds natural time and the rhythms of production. Ultimately, the project extends beyond being a facility for the distribution and sale of agricultural goods, becoming an architecture that allows the seasonal transformations of farming to be experienced within the city.",
+          "body_ko": "이 프로젝트의 입면은 고정된 외피의 조형만으로 완성되지 않는다. 건축의 표정은 외부에 배치된 경작 공간과 식재, 재배 면의 변화에 따라 계속 달라지며, 그 자체로 농업의 시간을 드러내는 장치가 된다. 상부의 녹화된 지붕과 계단형 재배 공간, 외부 테라스와 열린 플랫폼은 단순한 부속 공간이 아니라, 농사의 흐름이 도시 안에서 가시화되는 입면적 조건으로 작동한다. 따라서 이 건물은 완공의 순간 하나의 고정된 이미지를 갖기보다, 계절에 따라 다른 밀도와 색, 질감의 변화를 드러내며 지속적으로 다시 읽힌다.\n특히 이 변화는 장식적 연출이 아니라, 생산의 과정 자체가 건축의 외부에 드러나는 방식에서 비롯된다. 파종과 성장, 수확과 휴지의 반복은 경작면의 표정을 바꾸고, 방문자는 그 변화를 통해 농업의 사계를 직접 체감하게 된다. 이처럼 입면은 단순히 안과 밖을 구분하는 경계가 아니라, 자연의 시간과 생산의 리듬을 담아내는 표면으로 재구성된다. 결국 이 프로젝트는 농산물의 유통과 판매를 위한 시설에 머무르지 않고, 농사의 계절 변화 자체를 도시 속에서 경험하게 하는 건축으로 확장된다."
+        },
+        { "type": "image", "src": "images/projects/2311A_APC/APC_img5.webp" },
+        { "type": "image", "src": "images/projects/2311A_APC/APC_img6.webp" }
+      ]
+    },
+    {
+      "slug": "2207P_FIRESTATION",
+      "id": "#05",
+      "title": "만수119안전센터 재건축",
+      "location": "Incheon, Korea",
+      "year": "2024",
+      "category": "competition",
+      "status": "unbuilt",
+      "image": "images/projects/2207P_FIRESTATION/firestation_main.webp",
+      "contents": [
+        {
+          "type": "text",
+          "title_en": "CONCEPT",
+          "body_en": "This project begins not with the fire station as a purely functional facility, but with the question of how a long public building is perceived within the city. Given the conditions of the site, the front elevation was bound to extend nearly 80 meters, with the risk of being read as a single continuous barrier in the urban landscape. Rather than accepting this length as one uninterrupted façade, the design deliberately divides the volume into a red brick mass and a dark stone-clad mass, reducing the sense of visual pressure and recalibrating the building to the scale of its surroundings. This division is not a formal gesture for its own sake, but an architectural response to the way a long civic building is received within its context.\nThe choice of materials follows the same logic. Red brick and dark finishes recall the symbolic colors of the fire station, while also expressing durability and stability over time. Instead of pursuing a temporary image or a lighter architectural expression, the project seeks to embody the sense of trust and permanence appropriate to a safety center through materials that can remain steady and reliable as they age. In this way, the exterior does not assert symbolism directly, but establishes a quiet and stable presence in the city through the articulation of fragmented masses and enduring material character.\nAt the same time, the project does not erase the traces of the site’s former public use. The green area at the front was not simply leftover landscaping, but a small urban margin where people paused and rested. Rather than removing this space in the name of efficiency, the reconstruction retains its memory and function, reorganizing it as part of the new safety center’s frontage. The green zone becomes a buffer in front of the building and a modest public foreground that softens the tension between the institution and the city.\nThis attitude reflects the understanding that a fire station, while first and foremost an operational facility for emergency response, must also exist as a public building in everyday contact with the local community. Its functions must be clear and robust, but its frontage need not face the city in an excessively closed or intimidating way. The project therefore accommodates the practical systems of dispatch and readiness while preserving a familiar front where the memory of the existing place can continue. Ultimately, this safety center is read not only as a facility for emergency response, but as an architecture that quietly accumulates an image of trust and stability within the city."
+        },
+         {
+          "type": "text",
+          "title_ko": "분절된 매스, 안정된 신뢰",
+          "body_ko": "이 프로젝트는 재건축되는 119안전센터를 단순한 기능시설로 보지 않고, 도시 안에서 긴 공공건축이 어떤 인상으로 받아들여지는가의 문제로부터 출발한다. 대지 조건상 전면은 약 80m에 이르는 긴 길이로 형성될 수밖에 없었고, 이는 자칫 도시 속에서 하나의 장벽처럼 인식될 가능성이 있었다. 따라서 건축은 이 연속된 길이를 그대로 수용하기보다, 붉은 벽돌의 매스와 마천석의 매스로 인위적으로 분절함으로써 입면의 압박감을 완화하고 도시적 스케일을 다시 조정한다. 이 분절은 단순한 형태 조작이 아니라, 긴 공공건축이 주변 맥락 속에서 지나치게 위압적인 표정으로 읽히지 않도록 하기 위한 공간적 판단이다.\n재료의 선택 역시 같은 태도 위에 놓인다. 붉은 벽돌과 검은 마감은 소방서의 상징색과 맞닿아 있으면서도, 동시에 시간이 지나도 쉽게 흔들리지 않는 내구적 물성을 전제로 한다. 이 건축은 일시적인 이미지나 가벼운 표정보다, 안전센터라는 용도에 걸맞은 신뢰와 지속성의 인상을 재료를 통해 드러내고자 한다. 결국 외관은 상징을 직접적으로 과시하기보다, 분절된 매스와 변함없는 물성을 통해 도시 속에서 차분하고 안정된 존재로 자리 잡는다.\n한편 이 프로젝트는 재건축 이전부터 장소적으로 기능하던 전면의 흔적 또한 지우지 않는다. 전면부의 녹지공간은 단순한 조경 면적이 아니라, 사람들이 잠시 머무르고 쉬는 장소로 사용되던 생활의 여백이었다. 따라서 재건축은 그 공간을 효율만을 이유로 삭제하기보다, 기존 장소가 갖고 있던 기억과 기능을 유지한 채 새로운 안전센터의 전면으로 다시 조직한다. 이 녹지는 시설 앞의 완충공간이자, 도시와 건물 사이의 긴장을 완화하는 작은 공공의 여백으로 작동한다.\n이러한 태도는 소방서가 단지 장비와 출동을 위한 실무 시설에 머무르지 않고, 지역사회와 일상적으로 접하는 공공건축이어야 한다는 인식과 연결된다. 건물의 기능은 명확하고 단단해야 하지만, 그 전면이 도시를 향해 지나치게 닫히거나 위압적으로 구성될 필요는 없다. 따라서 이 프로젝트는 출동과 대기의 체계를 실용적으로 담아내면서도, 사람들에게는 기존 장소의 기억이 이어지는 친숙한 전면을 남긴다. 결국 이 안전센터는 긴급 대응의 시설이면서 동시에, 도시 속에서 신뢰와 안정의 이미지를 조용히 축적하는 건축으로 읽힌다."
+        },
+        { "type": "image", "src": "images/projects/2207P_FIRESTATION/firestation_img1.webp" }
+      ]
+    },
+    {
+      "slug": "2102I_INTERIOR_LOLO",
+      "id": "#04",
+      "title": "로로 스튜디오",
+      "location": "Incheon, Korea",
+      "year": "2024",
+      "category": "interior",
+      "status": "completed",
+      "image": "images/projects/2102I_INTERIOR_LOLO/lolo_main.webp",
+      "contents": [
+        {
+          "type": "text",
+          "title_en": "A Central Space Shaped by Light and Emptiness",
+          "title_ko": "빛과 여백으로 구성한 중심 공간",
+          "body_en": "TThe client intended to create a studio shaped by two distinct concepts within a single interior. The first space is organized as a bright, unified volume. White walls, broad windows, sheer curtains, and curved surfaces work together to shape the flow of light and the continuity of space. Rather than relying on a strong formal gesture, the design prioritizes an interior in which light spreads evenly across walls and floor and the line of sight remains open.\nTo prevent it from reading as a blank white room, curvature, niches, and slight level changes were inserted within the rectilinear envelope to differentiate moments of staying and moving. Dark timber furniture, transparent pieces, and restrained objects register scale and suggest patterns of use. Through a precise calibration of light, emptiness, and placement, the space becomes the central scene in which the studio’s overall attitude and atmosphere are most clearly expressed.",
+          "body_ko": "프로젝트의 발주자는 하나의 공간에 두 가지 컨셉의 스튜디오를 만들고자 했다. 스튜디오의 첫 번째 공간은 하나의 밝은 볼륨으로 정리된다. 백색의 벽과 넓은 창, 얇은 커튼, 그리고 곡면으로 처리한 벽체는 서로 다른 요소처럼 보이지만, 실제로는 빛을 받아들이는 방식과 공간의 흐름을 하나로 묶기 위한 장치들이다. 강한 형태를 앞세우기보다, 빛이 벽과 바닥을 따라 고르게 퍼지고 시선이 막힘 없이 이어지는 상태를 우선했다. 그 결과 이 공간은 특정한 오브제보다 여백의 밀도와 밝기의 균형으로 기억되도록 계획되었다.\n이 장면이 단순히 비어 있는 백색 공간으로 보이지 않도록, 직선적인 벽체 사이에 곡면과 니치, 낮은 단차를 삽입해 머무름과 이동의 리듬을 세분했다. 짙은 목재 가구와 투명한 가구, 간결한 오브제는 이러한 배경 위에서 공간의 스케일과 사용 방식을 드러내는 기준점으로 놓였다. 건축 요소는 고정된 질서를 만들고, 가구와 오브제는 그 안에서 점유의 방식을 조절한다. 이 공간은 장식적으로 채워지기보다, 빛·여백·배치의 관계를 정밀하게 조정해 스튜디오의 기본적인 태도와 분위기가 가장 명확하게 드러나는 중심 장면으로 구성되었다."
+        },
+        { "type": "image", "src": "images/projects/2102I_INTERIOR_LOLO/lolo_img1.webp" },
+        { "type": "image", "src": "images/projects/2102I_INTERIOR_LOLO/lolo_img2.webp" }, 
+        {
+          "type": "text",
+          "title_en": "The Atmosphere Shaped by Materiality",
+          "title_ko": "물성이 만들어낸 분위기",
+          "body_en": "The second space was conceived as a more condensed and inward counterpart to the bright openness of the first. Using the same restrained palette of light finishes and minimal materials, it organizes depth through thickened walls, arched openings, and enclosing partitions. Rather than opening as a single room, it unfolds as a sequence of smaller interior scenes, where sightlines and movement divide and reconnect along edges, corners, and curved surfaces.\nHere, the arch works less as a formal motif than as a device regulating transition between zones. Rounded openings, niches, and thick walls connect the interior loosely while preserving the autonomy of each scene, and the beige plaster surfaces give the composition a quiet continuity. Light enters selectively along openings and curved wall planes, making texture and thickness more legible. Dark timber furniture and restrained objects establish signs of occupation and points of scale, so the space is defined less by openness than by depth, and less by continuity than by an accumulation of framed interior scenes.",
+          "body_ko": "프로젝트의 두 번째 공간은 첫 번째 공간의 밝고 개방된 성격과 대비되도록, 보다 응축되고 내향적인 장면으로 구성되었다. 동일한 밝은 계열의 마감과 절제된 재료 구성을 유지하면서도, 이 구역은 벽의 두께, 아치형 개구부, 부분적으로 감싸는 입체적 벽체를 통해 공간의 깊이를 밀도 있게 조직한다. 하나의 큰 실로 열려 있다기보다, 시선과 동선이 벽의 모서리와 곡면을 따라 나뉘고 이어지며 여러 개의 작은 장면을 형성하는 방식에 가깝다.\n이 공간에서 아치는 단순한 조형적 장치가 아니라 서로 다른 영역 사이의 전이를 조율하는 형식으로 작동한다. 둥근 개구부와 니치, 두꺼운 벽체는 내부를 느슨하게 연결하면서도 각 장면의 독립성을 유지하고, 베이지 톤의 미장 마감은 전체에 차분한 연속성을 부여한다. 빛은 개구부와 벽면의 굴곡을 따라 부분적으로 스며들며 표면의 질감과 벽체의 두께를 더욱 선명하게 드러낸다. 짙은 목재 가구와 작은 오브제는 절제된 배경 위에서 점유의 흔적과 스케일의 기준점을 만들고, 이 공간은 개방감보다 깊이, 연속성보다 분절된 장면의 축적을 통해 공간을 규정한다."
+        },
+        { "type": "image", "src": "images/projects/2102I_INTERIOR_LOLO/lolo_img3.webp"},
+        { "type": "image", "src": "images/projects/2102I_INTERIOR_LOLO/lolo_img4.webp"},
+        { "type": "image", "src": "images/projects/2102I_INTERIOR_LOLO/lolo_img5.webp"}, 
+        { "type": "image", "src": "images/projects/2102I_INTERIOR_LOLO/lolo_img6.webp"}   
+      ]
+    },
+    {
+      "slug": "2010B_INTERIOR_SIKUNJEMA",
+      "id": "#03",
+      "title": "카페 시쿠은제마",
+      "location": "Incheon, Korea",
+      "year": "2024",
+      "category": "interior",
+      "status": "completed",
+      "image": "images/projects/2010B_INTERIOR_SIKUNJEMA/SIKUNJEMA_main.webp",
+      "contents": [
+        {
+          "type": "text",
+          "title_en": "A Ground Shaped as Terrain, A Space for Dwelling",
+          "title_ko": "지형이 된 바닥, 체류의 공간",
+          "body_en": "Cafe Sikuenzema does not treat the interior as a space isolated from the outside, but defines its character by drawing landscape elements into the room. Against the rough frame of exposed concrete structure and visible services, red volcanic gravel, soil, planting, and log-like seating turn the floor from a simple finish into a small terrain. While a typical café arranges furniture on a flat surface, this space begins by shaping the ground itself and then placing the elements of occupation upon it. As a result, the interior moves beyond a space of consumption and becomes a place where one experiences dwelling within a constructed natural landscape.",
+          "body_ko": "카페 시쿠은제마는 실내를 외부와 단절된 공간으로 보지 않고, 외부의 조경 요소를 내부로 끌어들이는 방식으로 공간의 성격을 설정한다. 노출 콘크리트 구조체와 설비가 드러난 거친 골격 위에 붉은 화산석 입자와 흙, 식재, 통나무 형태의 좌석이 놓이면서, 바닥은 단순한 마감이 아니라 하나의 작은 지형으로 작동한다. 일반적인 카페가 평탄한 바닥 위에 가구를 배열하는 방식에 가깝다면, 이 공간은 먼저 지면의 상태를 만들고 그 위에 머무름의 장치를 얹는다. 그 결과 실내는 소비를 위한 장소를 넘어, 자연적 풍경 안에서 체류를 경험하는 공간으로 전환된다."
+        },
+        { "type": "image", "src": "images/projects/2010B_INTERIOR_SIKUNJEMA/SIKUNJEMA_img1.webp" },
+        { "type": "image", "src": "images/projects/2010B_INTERIOR_SIKUNJEMA/SIKUNJEMA_img2.webp" },
+        { "type": "image", "src": "images/projects/2010B_INTERIOR_SIKUNJEMA/SIKUNJEMA_img3.webp" },
+        {
+          "type": "text",
+          "title_en": "A Material Landscape Organized Beyond Contrast",
+          "title_ko": "대비를 넘어 조직된 물성의 풍경",
+          "body_en": "The key to this space lies in the way natural and artificial elements do not remain in mere contrast, but are woven together into a single atmosphere. Concrete walls and ceiling reveal the weight of the structure and the rawness of the material, while soil and planting introduce a slower and more flexible sense of time. Linear lighting, metal tables, and window frames establish an industrial order, while timber stools and low vegetation draw the body back toward the ground. In this way, artificial structure and natural materials do not cancel one another out, but organize the density and sensory quality of the space while retaining their distinct characters. During the day, the city filters in through the windows as a backdrop; at night, under restrained lighting, the shadows of concrete and planting become more pronounced, and the space turns into a more condensed scene. Rather than decorating a café, this project is closer to constructing an atmosphere in which nature and artifice coexist through materiality, light, and the composition of the ground.",
+          "body_ko": "공간의 핵심은 자연 요소와 인공 요소의 대비가 충돌에 머무르지 않고, 하나의 분위기로 유기적으로 엮인다는 점에 있다. 콘크리트 벽과 천장은 구조의 중량감과 거친 물성을 드러내고, 바닥의 흙과 식재는 그 위에 보다 느리고 유연한 시간성을 겹쳐 놓는다. 직선적인 조명과 금속 테이블, 창호 프레임은 산업적인 질서를 부여하는 한편, 원목 스툴과 낮은 식재는 사용자의 몸을 다시 지면 가까이 끌어내린다. 이렇게 인공적 구조와 자연적 재료는 서로를 상쇄하지 않고, 오히려 각자의 성질을 유지한 채 공간의 밀도와 감각을 함께 조직한다. 낮에는 도시의 풍경이 창을 통해 배경처럼 스며들고, 밤에는 절제된 조명 아래 콘크리트와 식재의 그림자가 부각되며 공간은 더욱 응축된 장면으로 바뀐다. 이 프로젝트는 카페를 장식하는 대신, 물성·빛·지면의 구성 속에서 자연과 인공이 공존하는 분위기를 구축한 사례이다."
+        },
+        { "type": "image", "src": "images/projects/2010B_INTERIOR_SIKUNJEMA/SIKUNJEMA_img4.webp" },
+        { "type": "image", "src": "images/projects/2010B_INTERIOR_SIKUNJEMA/SIKUNJEMA_img5.webp" },
+        { "type": "image", "src": "images/projects/2010B_INTERIOR_SIKUNJEMA/SIKUNJEMA_img6.webp" },
+        { "type": "image", "src": "images/projects/2010B_INTERIOR_SIKUNJEMA/SIKUNJEMA_img7.webp" }
+      ]
+    },
+    {
+      "slug": "2006P_Library",
+      "id": "#02",
+      "title": "진주시 남부어린이 도서관",
+      "location": "Jinju, Korea",
+      "year": "2024",
+      "category": "competition",
+      "status": "unbuilt",
+      "image": "images/projects/2006P_Library/library_main.webp",
+      "contents": [
+        {
+          "type": "text",
+          "title_en": "A Dark Rock Holding Light",
+          "body_en": "This project rethinks the children’s library not as another bright and colorful educational space, but as a place centered on a child’s instinct to find their own way and explore. Spaces for children are often designed around familiarity and clarity, yet this proposal takes a different direction. For a child, space is not simply a place where programs are consumed, but a world remembered through gaps scaled to the body, through depth, hidden scenes, and unexpected discoveries. Rather than revealing everything at once, the library is organized through the contrast of darkness and light, allowing children to move through it and gradually read the space for themselves.\nThe interior is conceived as both a vast library landscape and an architectural terrain that opens toward light. Layers of reading spaces, continuous walls of books, and light falling from above transform the building from a mere repository of books into a large inhabitable interior world. Here, light does not function as an even illumination spread across the whole room, but as a device that emphasizes certain places and suggests directions of movement. Children move between the bright, open center and the lower, deeper edges, discovering the depth of the space for themselves, much like exploring the darkness inside a wardrobe or beneath a blanket.\nThis attitude stands apart from the common tendency to make children’s spaces visually stimulating through an excess of color. What matters here is not chromatic play, but the sensory tension produced by light and shadow, openness and density, exposure and concealment. From the outside, the building appears as a restrained mass firmly placed at the urban intersection. Inside, however, shelves, stairs, reading niches, and courtyard-like voids overlap to create a deeper and more intimate world. Ultimately, this library is not an architecture that explains itself to children, but one that allows them to follow curiosity, chase light, and explore space on their own."
+        },
+        {
+          "type": "text",
+          "title_ko": "빛을 품은 검은 바위",
+          "body_ko": "이 프로젝트는 어린이 도서관을 밝고 알록달록한 교육 공간으로 반복하는 대신, 어린이가 스스로 길을 찾고 공간을 탐험하는 감각을 중심에 두고 다시 생각한다. 일반적으로 어린이를 위한 건축은 친숙함과 명료함을 앞세우지만, 이 계획은 그와 다른 방향을 택한다. 어린이에게 공간은 단순히 주어진 프로그램을 소비하는 장소가 아니라, 몸의 크기에 맞는 틈과 깊이, 숨겨진 장면과 우연한 발견을 통해 기억되는 세계이기 때문이다. 따라서 이 도서관은 즉각적으로 모든 것을 드러내는 대신, 어둠과 밝음의 대비 속에서 아이가 스스로 움직이며 공간을 읽어나가도록 조직된다.\n건축의 내부는 하나의 큰 서가적 실내이자, 빛을 향해 열리는 입체적 탐험 공간으로 계획된다. 높은 벽면을 따라 둘러진 서가와 중첩된 열람의 층위, 상부에서 떨어지는 빛은 공간 전체를 단순한 자료 보관소가 아니라 하나의 커다란 내부 풍경으로 바꾼다. 이때 빛은 균일하게 실내를 채우는 조명이 아니라, 특정한 장소를 부각시키고 이동의 방향을 암시하는 장치로 작동한다. 아이들은 밝게 열린 중심과 상대적으로 낮고 깊은 가장자리 사이를 오가며, 마치 어두운 장롱 속이나 이불 아래를 탐험하듯 스스로 공간의 깊이를 발견하게 된다.\n이러한 구성은 어린이를 위한 공간을 단순히 시각적으로 자극적인 환경으로 만드는 태도와 분명히 다르다. 이 프로젝트에서 중요한 것은 색채의 과잉이 아니라, 빛과 어둠, 개방과 밀도, 노출과 은닉의 리듬이 만들어내는 감각적 긴장이다. 외부에서 건물은 절제된 매스로 도시의 교차점에 단단히 놓이지만, 내부로 들어서면 서가와 계단, 열람의 틈과 중정적 공간이 겹쳐지며 보다 깊고 내밀한 세계가 펼쳐진다. 결국 이 도서관은 어린이를 설명적으로 배려하는 건축이 아니라, 아이가 스스로 호기심을 따라 움직이며 빛을 쫓아 탐험할 수 있도록 만드는 공간이라 할 수 있다."
+        },
+        { "type": "image", "src": "images/projects/2006P_Library/library_img1.webp" },
+        { "type": "image", "src": "images/projects/2006P_Library/library_img2.webp" },
+        { "type": "image", "src": "images/projects/2006P_Library/library_img3.webp" }
+      ]
+    },
+    {
+      "slug": "2002I_INTERIOR_TPFL",
+      "id": "#01-1",
+      "title": "중첩된 시간의 집",
+      "location": "Incheon, Korea",
+      "year": "2020",
+      "category": "interior",
+      "status": "completed",
+      "image": "images/projects/2002I_INTERIOR_TPFL/TPFL_main.webp",
+      "contents": [
+        {
+          "type": "text",
+          "title_en": "A House Organized in Section",
+          "title_ko": "단면으로 조직된 집",
+          "body_en": "A duplex house prioritizes sectional organization over planar expansion. Within a restricted width, space is not dispersed horizontally but stacked vertically, and the stair operates beyond a mere device of circulation, functioning instead as the primary structure that penetrates the entire composition. A residential type that could easily be reduced to the repetitive arrangement of isolated rooms acquires a different order through natural light entering along the stair and through visual connections opening toward the exterior. Light penetrating vertically and fragments of outside space revealed through narrow apertures are continuously modulated over time, introducing depth and tension into what might otherwise remain a simplified interior. In this sense, the duplex condition should be understood not as an increase in floor area, but as a reconstruction of volume. Dwelling in this house is not established through the division of floors. It is organized through a rhythm of compression and release along the section, continuously constructing relationships between movement and pause, openness and convergence.",
+          "body_ko": "복층의 주택은 평면의 확장보다 단면의 조직을 우선한다. 제한된 폭 안에서 공간은 수평으로 분산되지 않고 수직으로 중첩되며, 계단은 단순한 이동 장치를 넘어 전체 구성을 관통하는 주된 구조로 작동한다. 자칫 일괄적인 독립실의 배열로 환원될 수 있는 주거 형식은, 계단을 따라 유입되는 자연광과 외부를 향해 열리는 시선에 의해 다른 질서를 획득한다. 상하로 관통하는 빛과 틈 사이로 드러나는 외부 공간은 시간의 흐름에 따라 지속적으로 변주되며, 단순할 수 있었던 내부에 깊이와 긴장을 부여한다. 이때 복층의 형식은 면적의 증식이 아니라 체적의 재구성으로 이해되어야 한다. 이 주택의 거주는 층을 분할하는 방식으로 성립하지 않는다. 그것은 단면을 따라 압축되고 이완되는 리듬 속에서 조직되며, 이동과 정지, 개방과 수렴의 관계를 연속적으로 구축한다."
+        },
+        { "type": "image", "src": "images/projects/2002I_INTERIOR_TPFL/TPFL_img1.webp" },
+        { "type": "image", "src": "images/projects/2002I_INTERIOR_TPFL/TPFL_img2.webp" },
+        {
+          "type": "text",
+          "title_en": "Integrated Elements, Evolved Architecture",
+          "title_ko": "결합된 요소, 진화한 건축",
+          "body_en": "The timber elements in this project do not remain decorative materials that simply add warmth to the finish. Inserted into the interior as stairs, storage, kitchen units, and shelving, timber operates not as a collection of objects but as an organizing principle that defines spatial occupation and the order of use. Elements typically understood as separate—structure and furniture, circulation and storage—are combined here into a continuous system, and this integration moves beyond the mere layering of functions to enhance the architectural resolution of the house.\nIn particular, the storage system occupying the underside and sides of the stair is not a secondary solution for leftover space. It is an architectural device that organizes sectional density and coordinates the relationship between movement and pause. As a result, the stair becomes more than circulation and storage more than an auxiliary function; both become part of the fundamental syntax of spatial composition. The completion of this house is secured through the precision of that integration.",
+          "body_ko": "프로젝트의 목재 요소는 마감의 온기를 더하는 장식적 재료에 머물지 않는다. 목재는 계단, 수납, 주방, 선반의 형식으로 건축 내부에 삽입되며, 개별 오브제가 아니라 공간의 점유 방식과 사용의 질서를 규정하는 조직 원리로 작동한다. 구조와 가구, 동선과 수납처럼 분리되어 인식되던 요소들은 여기서 하나의 연속된 체계로 결합되며, 그 결합은 기능의 병치를 넘어 건축의 완성도를 높이는 방식으로 구체화된다.\n특히 계단 하부와 측면의 수납 시스템은 남는 공간을 처리하는 부수적 해법이 아니다. 그것은 단면의 밀도를 조직하고, 이동과 정지의 관계를 조율하는 건축적 장치다. 이로써 계단은 단순한 동선이 아니라 공간 구조의 일부가 되고, 수납 역시 부속 기능이 아니라 공간 구성을 완성하는 기본 문법이 된다. 이 주택의 완성도는 이러한 요소들의 정밀한 결합에서 확보된다."
+        },
+        { "type": "image", "src": "images/projects/2002I_INTERIOR_TPFL/TPFL_img3.webp" },
+        { "type": "image", "src": "images/projects/2002I_INTERIOR_TPFL/TPFL_img4.webp" },
+        { "type": "image", "src": "images/projects/2002I_INTERIOR_TPFL/TPFL_img5.webp" },
+                {
+          "type": "text",
+          "title_en": "An Interior Organized by Contrast",
+          "title_ko": "대비로 조직된 내부",
+          "body_en": "The interior is composed in a highly restrained manner, based on white walls and ceilings, within which dark timber flooring and cabinetry, along with gray stone finishes, establish a sharp contrast. This contrast is not a sensory effect for decoration, but an architectural decision intended to clarify spatial hierarchy and the centers of use. White surfaces diffuse light and abstract the boundaries of space, while timber and stone anchor the points where the body and function are most intensely engaged.\nGlass balustrades and linear lighting further refine this composition without overstating material presence, while precisely maintaining sectional continuity and spatial tension. As a result, the interior of this house operates as a field in which differences of light, depth, and density are clearly articulated within a minimal material system. The contrast between restrained form and material weight gives the house a distinct order and a condensed atmosphere.",
+          "body_ko": "실내는 백색의 벽과 천장을 바탕으로 최대한 절제된 형식으로 구성되며, 그 안에 짙은 목재 바닥과 가구, 회색 석재 마감이 선명한 대비를 형성한다. 이러한 대비는 감각적 장식을 위한 연출이 아니라, 공간의 위계와 사용의 중심을 분명히 하기 위한 건축적 선택이다. 백색의 표면은 빛을 확산시키며 공간의 경계를 추상화하고, 목재와 석재는 신체와 기능이 집중되는 지점을 무게 있게 고정한다.\n여기에 유리 난간과 선형 조명은 물질의 존재감을 과도하게 드러내지 않으면서도, 단면의 연속성과 공간의 긴장을 정교하게 유지한다. 그 결과 주택의 내부는 최소한의 재료 체계 안에서 빛과 깊이, 밀도의 차이를 분명하게 드러내는 장으로 작동한다. 절제된 형식과 물성의 대비는 본 프로젝트의 명확한 질서와 응축된 분위기를 부여한다."
+        },
+        { "type": "image", "src": "images/projects/2002I_INTERIOR_TPFL/TPFL_img6.webp" },
+        { "type": "image", "src": "images/projects/2002I_INTERIOR_TPFL/TPFL_img7.webp" },
+        { "type": "image", "src": "images/projects/2002I_INTERIOR_TPFL/TPFL_img8.webp" },
+        { "type": "image", "src": "images/projects/2002I_INTERIOR_TPFL/TPFL_img9.webp" },
+        { "type": "image", "src": "images/projects/2002I_INTERIOR_TPFL/TPFL_img10.webp" },
+        { "type": "image", "src": "images/projects/2002I_INTERIOR_TPFL/TPFL_img11.webp" }
+      ]
+    }
+  ]
+}

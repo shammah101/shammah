@@ -1,0 +1,105 @@
+@media (max-width: 900px) {
+    /* Mobile header / logo menu - common layer only */
+    header {
+        position: relative;
+    }
+
+    .header-left {
+        position: relative !important;
+        width: auto !important;
+        align-self: flex-start;
+    }
+
+    .logo-wrapper {
+        width: 118px;
+        height: 28px;
+        z-index: 60;
+    }
+
+    .logo-text {
+        font-size: 15px;
+    }
+
+    .logo-img-file {
+        height: 24px;
+    }
+
+    #dropdown-menu {
+        position: absolute !important;
+        top: 15px !important;
+        left: 35px !important;
+        display: none;
+        flex-direction: row;
+        align-items: flex-end;
+        gap: 14px;
+        padding: 0 !important;
+        background: transparent !important;
+        backdrop-filter: none !important;
+        white-space: nowrap;
+        z-index: 70;
+    }
+
+    #dropdown-menu.show {
+        display: flex !important;
+    }
+
+    .dropdown-item {
+        font-size: 9px;
+        line-height: 1;
+        letter-spacing: 0.03em;
+        position: relative;
+        z-index: 71;
+    }
+
+    .dropdown-item:hover::before {
+        display: none;
+    }
+
+    body.section-projects-view header {
+        flex-direction: row !important;
+        justify-content: flex-start !important;
+        align-items: flex-start !important;
+        gap: 14px !important;
+        margin-bottom: 22px !important;
+    }
+
+    body.section-projects-view .header-left {
+        width: auto !important;
+        flex: 0 0 auto;
+    }
+
+    body.section-projects-view .header-right {
+        display: none !important;
+    }
+}
+@media (max-width: 900px) {
+    .section-back-to-top-wrap {
+        justify-content: flex-end;
+        margin: 36px 0 8px;
+    }
+
+    .section-back-to-top {
+        gap: 8px;
+    }
+
+    .section-back-to-top-logo {
+        width: 12px;
+        height: 12px;
+        flex-basis: 12px;
+    }
+
+    .section-back-to-top-logo-line {
+        width: 10px;
+        height: 10px;
+    }
+
+    .section-back-to-top-logo-dot {
+        width: 3.5px;
+        height: 3.5px;
+    }
+
+    .section-back-to-top-text {
+        font-size: 9px;
+        letter-spacing: 0.06em;
+    }
+}

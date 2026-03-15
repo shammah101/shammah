@@ -1,0 +1,25 @@
+/* Minimal local utilities replacing the runtime Tailwind CDN dependency */
+.bg-white{background-color:#fff;}
+.bg-black{background-color:#000;}
+.text-black{color:#000;}
+.text-white{color:#fff;}
+.text-gray-400{color:#9ca3af;}
+.flex{display:flex;}
+.hidden{display:none;}
+.items-center{align-items:center;}
+.justify-center{justify-content:center;}
+.uppercase{text-transform:uppercase;}
+.font-bold{font-weight:700;}
+.leading-tight{line-height:1.25;}
+.mx-auto{margin-left:auto;margin-right:auto;}
+.mb-4{margin-bottom:1rem;}
+.mt-2{margin-top:.5rem;}
+.p-8{padding:2rem;}
+.w-8{width:2rem;}
+.h-8{height:2rem;}
+.max-w-\[1600px\]{max-width:1600px;}
+.text-\[7px\]{font-size:7px;}
+.text-\[11px\]{font-size:11px;}
+.text-\[16px\]{font-size:16px;}
+@media (min-width: 640px){.sm\:flex{display:flex;}}
+@media (min-width: 768px){.md\:p-12{padding:3rem;}}

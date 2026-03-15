@@ -1,0 +1,207 @@
+{
+  "news": [
+    
+    {
+      "title": "월드비전 무진종합사회복지관 설계공모 입상",
+      "title_sub": "World Vision",
+      "category": "COMPETITION",
+      "cat_slug": "competition",
+      "date": "2025.12",
+      "year": "2025",
+      "link_type": "project",
+      "project_slug": "2509P_Welfare"
+    },
+    {
+      "title": "산청 행복문화센터 건립사업 설계공모 입상",
+      "title_sub": "산청군",
+      "category": "COMPETITION",
+      "cat_slug": "competition",
+      "date": "2025.01",
+      "year": "2025",
+      "link_type": "project",
+      "project_slug": "2410C_Culture_Center"
+    },
+    {
+      "title": "(재)화성푸드통합지원센터 청사 건립사업 설계공모 입상",
+      "title_sub": "화성시",
+      "category": "COMPETITION",
+      "cat_slug": "competition",
+      "date": "2024.01",
+      "year": "2024",
+      "link_type": "project",
+      "project_slug": "2311A_APC"
+    },
+    {
+      "title": "인천광역시 공공건축가 위촉",
+      "title_sub": "인천광역시",
+      "category": "APPOINTMENT",
+      "cat_slug": "appointment",
+      "date": "2023~2025",
+      "year": "2023~2025",
+      "link_type": "none"
+    },
+    {
+      "title": "세 개의 면, 다섯 개의 켜",
+      "title_sub": "건축사 11월호",
+      "category": "PUBLICATION",
+      "cat_slug": "publication",
+      "date": "2022.11",
+      "year": "2022",
+      "link_type": "project",
+      "project_slug": "1712C_TPFL"
+    },
+    {
+      "title": "만수119안전센터 재건축 설계공모 입상",
+      "title_sub": "인천광역시",
+      "category": "COMPETITION",
+      "cat_slug": "competition",
+      "date": "2022.09",
+      "year": "2022",
+      "link_type": "project",
+      "project_slug": "2207P_FIRESTATION"
+    },
+    {
+      "title": "인천광역시 논현동 로로 스튜디오 인테리어",
+      "title_sub": "",
+      "category": "INTERIOR",
+      "cat_slug": "interior",
+      "date": "2021.04",
+      "year": "2021",
+      "link_type": "project",
+      "project_slug": "2102I_INTERIOR_LOLO"
+    },
+    {
+      "title": "인천광역시 간석동 시쿠은제마 인테리어",
+      "title_sub": "",
+      "category": "INTERIOR",
+      "cat_slug": "interior",
+      "date": "2021.04",
+      "year": "2021",
+      "link_type": "project",
+      "project_slug": "2010B_INTERIOR_SIKUNJEMA"
+    },
+    {
+      "title": "A Nominee ArchDaily 2021 Building of the Year Awards",
+      "title_sub": "ArchDaily",
+      "category": "AWARD",
+      "cat_slug": "award",
+      "date": "2021.01",
+      "year": "2021",
+      "link_type": "none"
+    },
+     {
+      "title": "2020 아이콘파티 기념렉처",
+      "title_sub": "2020 인천건축문화제",
+      "category": "LECTURE",
+      "cat_slug": "lecture",
+      "date": "2020.11",
+      "year": "2020",
+      "link_type": "none"
+    },
+    {
+      "title": "인천 아키텍트 파이브 선정",
+      "title_sub": "와이드 AR",
+      "category": "AWARD",
+      "cat_slug": "award",
+      "date": "2020.11",
+      "year": "2020",
+      "link_type": "none"
+    },
+    {
+      "title": "인천광역시 건축상 우수상",
+      "title_sub": "세 개의 면, 다섯 개의 켜",
+      "category": "AWARD",
+      "cat_slug": "award",
+      "date": "2020.11",
+      "year": "2020",
+      "link_type": "project",
+      "project_slug": "1712C_TPFL"
+    },
+    {
+      "title": "진주시 남부어린이 도서관 설계공모 작품집",
+      "title_sub": "진주시",
+      "category": "PUBLICATION",
+      "cat_slug": "publication",
+      "date": "2020.08",
+      "year": "2020",
+      "link_type": "none"
+    },
+     {
+      "title": "진주시 남부어린이 도서관 설계공모 입상",
+      "title_sub": "진주시",
+      "category": "COMPETITION",
+      "cat_slug": "competition",
+      "date": "2020.07",
+      "year": "2020",
+      "link_type": "project",
+      "project_slug": "2006P_Library"
+    },
+    {
+      "title": "세 개의 면, 다섯 개의 켜",
+      "title_sub": "건축문화 6월호",
+      "category": "PUBLICATION",
+      "cat_slug": "publication",
+      "date": "2020.06",
+      "link_type": "project",
+      "project_slug": "1712C_TPFL"
+    },
+    {
+      "title": "세 개의 면, 다섯 개의 켜",
+      "title_sub": "건축세계 4월호",
+      "category": "PUBLICATION",
+      "cat_slug": "publication",
+      "date": "2020.04",
+      "year": "2020",
+      "link_type": "project",
+      "project_slug": "1712C_TPFL"
+    },
+    {
+      "title": "Three Planes, Five Layers",
+      "title_sub": "ArchDaily China",
+      "category": "PUBLICATION",
+      "cat_slug": "publication",
+      "date": "2020.02",
+      "year": "2020",
+      "link_type": "external",
+      "external_url": "https://www.archdaily.cn/cn/933885/han-guo-gong-yu-zai-san-ceng-ping-mian-zhong-su-zao-wu-ceng-kong-jian-shammah-architects?ad_source=search&ad_medium=projects_tab"
+    },
+    {
+      "title": "Three Planes, Five Layers",
+      "title_sub": "ArchDaily",
+      "category": "PUBLICATION",
+      "cat_slug": "publication",
+      "date": "2020.02",
+      "year": "2020",
+      "link_type": "external",
+      "external_url": "https://www.archdaily.com/933723/three-planes-five-layers-apartment-building-shammah-architects?ad_source=search&ad_medium=projects_tab"
+    },
+    {
+      "title": "인천광역시 간석동 단독주택 인테리어",
+      "title_sub": "",
+      "category": "INTERIOR",
+      "cat_slug": "interior",
+      "date": "2020.02",
+      "year": "2020",
+      "link_type": "project",
+      "project_slug": "2002I_INTERIOR_TPFL"
+    },
+    {
+      "title": "SH신한옥 건축디자인 공모전 1위",
+      "title_sub": "서울주택도시개발공사",
+      "category": "COMPETITION",
+      "cat_slug": "competition",
+      "date": "2009.08",
+      "year": "2009",
+      "link_type": "none"
+    },
+    {
+      "title": "친환경 건축디자인 공모전 1위",
+      "title_sub": "국토해양부 장관상",
+      "category": "COMPETITION",
+      "cat_slug": "competition",
+      "date": "2009.08",
+      "year": "2009",
+      "link_type": "none"
+    }
+  ]
+}

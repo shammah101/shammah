@@ -1,0 +1,161 @@
+/* --- ABOUT SECTION --- */
+#about-section {
+    display: none;
+    padding-top: 2vh;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.about-title {
+    font-size: 80px;
+    font-weight: 400;
+    margin-bottom: 80px;
+    text-transform: uppercase;
+    line-height: 1;
+    letter-spacing: 0;
+}
+
+/*
+   핵심:
+   - 현재 about HTML은 careers처럼 block wrapper가 없으므로
+     CSS만으로 "본문 / 서명 / 이미지"의 수직 정렬을 맞추는 방식으로 처리
+   - 두 컬럼을 같은 높이로 stretch
+   - 각 컬럼(.about-text-box)은 flex column
+   - 서명(.about-signature)에 margin-top:auto를 주어
+     텍스트 길이가 달라도 서명 시작점이 동일해지도록 설정
+*/
+.about-content {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    column-gap: 8vw;
+    row-gap: 0;
+    align-items: stretch;
+}
+
+.about-text-box {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    font-size: 14px;
+    line-height: 1.8;
+    color: #000;
+    text-align: left;
+    word-break: keep-all;
+    overflow-wrap: break-word;
+}
+
+/* 본문 문단 */
+.about-text-box p {
+    margin: 0 0 1.45em 0;
+}
+
+/* 문단 간격 통일 */
+.about-text-box p:last-of-type {
+    margin-bottom: 0;
+}
+
+.about-text-box.en {
+    font-weight: 300;
+}
+
+.about-text-box.ko {
+    font-weight: 400;
+    color: #000;
+}
+
+/* 첫 문단의 strong 정리 */
+.about-text-box strong {
+    font-weight: 700;
+}
+
+/*
+   서명 시작점 정렬 핵심
+   - 각 컬럼이 같은 높이로 늘어난 상태에서
+   - 서명을 아래로 밀어 동일한 시작점 확보
+*/
+.about-signature {
+    margin-top: auto;
+    padding-top: 50px;
+    font-size: 13px;
+    line-height: 1.6;
+}
+
+.signature-name {
+    font-weight: 700;
+    display: block;
+    color: #000;
+}
+
+.signature-pos {
+    color: #9ca3af;
+    font-size: 11px;
+    text-transform: uppercase;
+}
+
+.about-text-box.ko .signature-pos {
+    text-transform: none;
+}
+
+.about-image-wrapper {
+    margin-top: 60px;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    background-color: #f7f7f7;
+}
+
+.about-image-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+/* MOBILE */
+@media (max-width: 900px) {
+    #about-section {
+        padding-top: 0.35rem !important;
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+    }
+
+    .about-title {
+        font-size: 28px !important;
+        line-height: 1 !important;
+        margin-bottom: 20px !important;
+        letter-spacing: -0.02em !important;
+    }
+
+    .about-content {
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 24px !important;
+    }
+
+    .about-text-box {
+        display: flex !important;
+        flex-direction: column !important;
+        width: 100% !important;
+        min-width: 0 !important;
+        font-size: 12px !important;
+        line-height: 1.75 !important;
+        text-align: left !important;
+    }
+
+    .about-text-box p {
+    margin: 0 0 1.2em 0 !important;
+}
+
+.about-text-box p:last-of-type {
+    margin-bottom: 0 !important;
+}
+
+    .about-signature {
+        margin-top: 20px !important;
+        padding-top: 0 !important;
+    }
+
+    .about-image-wrapper {
+        display: none !important;
+    }
+}

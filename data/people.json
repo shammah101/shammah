@@ -1,0 +1,42 @@
+{
+  "people": [
+    {
+      "group": "FOUNDER",
+      "members": [
+        {
+  "name_en": "Kyoungjin Kim",
+  "name_ko": "김경진",
+  "bio": "Kyoungjin Kim is an architect based in Incheon, with a practice rooted in a close reading of local physical environments and the rhythms of everyday life. He sees architecture not as the production of new forms alone, but as a process of interpreting the conditions of a place and the needs of its users, and organizing them into sustainable space.\nFrom function, structure, circulation, and material to the relationships between them, he understands architecture as the result of tightly connected elements accumulated into a coherent whole. While the process itself may be complex, he believes the final form of architecture should remain concise and clear.\nThrough rational and functional composition, restrained detail, and an unexaggerated sense of order, he seeks to reveal the essential qualities of architecture and to create spaces that can endure in everyday use over time.",
+  "bio_ko": "인천을 기반으로 활동하는 건축가로서, 지역의 물리적 환경과 생활의 리듬을 세심하게 읽어내는 작업에 관심을 두고 있다. 건축은 단지 새로운 형태를 만드는 일이 아니라, 장소의 조건과 사용자의 요구를 정확하게 해석하고 이를 지속 가능한 공간으로 조직하는 과정이라고 생각한다.\n기능, 구조, 동선, 재료에 이르기까지 건축을 이루는 요소들은 서로 긴밀하게 연결되어 있으며, 그 축적의 결과로 하나의 공간이 완성된다. 이처럼 과정은 복합적이지만, 건축이 최종적으로 드러내야 할 모습은 오히려 간결하고 명료해야 한다.\n합리성과 기능성을 바탕으로 한 구성, 과장되지 않은 질서, 절제된 디테일을 통해 건축의 본질을 드러내고자 하며, 일상 속에서 오래 지속될 수 있는 공간을 만드는 데 집중하고 있다.",
+  "img": "images/people/kj_kim.webp"
+},
+        {
+          "name_en": "Hyeji Park",
+          "name_ko": "박혜지",
+          "bio": "Hyeji Park specializes in...",
+          "bio_ko": "박혜지는...",
+          "img": "images/people/hj_park.jpg"
+        }
+      ]
+    },
+    {
+      "group": "ASSOCIATES/DIRECTORS",
+      "members": [
+        {
+          "name_en": "Hajin Kim",
+          "name_ko": "김하진",
+          "bio": "Hajin Kim bridges conceptual...",
+          "bio_ko": "김하진은...",
+          "img": "images/people/hj_kim.jpg"
+        },
+        {
+          "name_en": "Hayou Kim",
+          "name_ko": "김하유",
+          "bio": "Hayou Kim focuses on...",
+          "bio_ko": "김하유는...",
+          "img": "images/people/hy_kim.jpg"
+        }
+      ]
+    }
+  ]
+}

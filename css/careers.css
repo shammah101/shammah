@@ -1,0 +1,197 @@
+/* --- CAREERS SECTION --- */
+#careers-section {
+    display: none;
+    padding-top: 2vh;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.careers-title {
+    font-size: 80px;
+    font-weight: 400;
+    margin-bottom: 80px;
+    text-transform: uppercase;
+    line-height: 1;
+    letter-spacing: 0;
+}
+
+/* 
+   핵심:
+   parent grid가 4개의 row를 가지고,
+   각 언어 컬럼이 그 row를 그대로 공유(subgrid)합니다.
+   따라서 영어/한글 텍스트 길이가 달라도
+   본문 / 제출서류 / 지원접수 / 이미지 시작점이 서로 맞습니다.
+*/
+.careers-content {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    grid-template-rows: auto auto auto auto;
+    column-gap: 8vw;
+    row-gap: 0;
+    align-items: start;
+}
+
+.careers-column {
+    display: grid;
+    grid-template-rows: subgrid;
+    grid-row: span 4;
+    align-content: start;
+    min-width: 0;
+}
+
+/* 공통 텍스트 블록 */
+.careers-block {
+    min-width: 0;
+}
+
+.careers-block-intro {
+    margin-bottom: 48px;
+}
+
+.careers-block-requirements {
+    margin-bottom: 44px;
+}
+
+.careers-block-application {
+    margin-bottom: 60px;
+}
+
+/* 본문 타이포 */
+.careers-block p {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.8;
+    color: #000;
+    text-align: left;
+    word-break: keep-all;
+    overflow-wrap: break-word;
+}
+
+/* 본문 문단 간격 복원 */
+.careers-block-intro p + p {
+    margin-top: 1.45em;
+}
+
+/* 제출서류 문단 */
+.careers-block-requirements p {
+    margin: 0;
+}
+
+/* 제목 강조 */
+.careers-block strong {
+    display: inline-block;
+    font-weight: 700;
+    margin-bottom: 0.45em;
+}
+
+/* 지원접수 */
+.careers-signature {
+    margin: 0;
+    line-height: 1.6;
+}
+
+.career-label {
+    display: block;
+    font-size: 13px;
+    font-weight: 700;
+    color: #000;
+    text-transform: uppercase;
+    margin-bottom: 0.45em;
+    line-height: 1.4;
+}
+
+.career-email {
+    font-size: 11px;
+    color: #9ca3af;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    line-height: 1.5;
+}
+
+/* 이미지 */
+.careers-image-wrapper {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    background: #f7f7f7;
+}
+
+.careers-image-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+/* 
+   subgrid 미지원 환경용 fallback
+   - 아주 오래된 브라우저에서만 적용
+   - 레이아웃이 깨지지 않도록만 유지
+*/
+@supports not (grid-template-rows: subgrid) {
+    .careers-content {
+        align-items: start;
+    }
+
+    .careers-column {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+/* MOBILE */
+@media (max-width: 900px) {
+    #careers-section {
+        padding-top: 0.35rem !important;
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+    }
+
+    .careers-title {
+        font-size: 28px !important;
+        line-height: 1 !important;
+        margin-bottom: 20px !important;
+        letter-spacing: -0.02em !important;
+    }
+
+    .careers-content {
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 24px !important;
+    }
+
+    .careers-column {
+        display: flex !important;
+        flex-direction: column !important;
+        min-width: 0 !important;
+    }
+
+    .careers-block-intro,
+    .careers-block-requirements,
+    .careers-block-application {
+        margin-bottom: 24px !important;
+    }
+
+    .careers-block p {
+        font-size: 12px !important;
+        line-height: 1.75 !important;
+        text-align: left !important;
+    }
+
+    .careers-block-intro p + p {
+        margin-top: 1.2em !important;
+    }
+
+    .career-label {
+        font-size: 12px !important;
+        margin-bottom: 0.35em !important;
+    }
+
+    .career-email {
+        font-size: 11px !important;
+    }
+
+    .careers-image-wrapper {
+        display: none !important;
+    }
+}

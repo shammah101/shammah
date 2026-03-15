@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="images/brand/logo.png" type="image/png">
+    <title>SHAMMAH Architects</title>
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/projects.css">
+    <link rel="stylesheet" href="css/news.css">
+    <link rel="stylesheet" href="css/about.css">
+    <link rel="stylesheet" href="css/people.css">
+    <link rel="stylesheet" href="css/careers.css">
+    <link rel="stylesheet" href="css/contact.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/tailwind-fallback.css">
+    <script src="js/app-core.js" defer></script>
+    <script src="js/people.js" defer></script>
+    <script src="js/news.js" defer></script>
+    <script src="js/projects.js" defer></script>
+    <script src="js/ui.js" defer></script>
+    <script src="js/main.js" defer></script>
+</head>
+
+<body class="bg-white text-black p-8 md:p-12">
+    <header>
+        <div class="header-left">
+            <div class="logo-wrapper" id="logo-click-area">
+                <div class="logo-text uppercase"><span class="underline-sham">SHAM</span><span class="font-bold-mah">MAH</span></div>
+                <img src="images/brand/logo.png" alt="SHAMMAH Logo" class="logo-img-file" decoding="async">
+            </div>
+            <div id="dropdown-menu">
+                <div class="dropdown-item" data-section-target="projects">PROJECTS</div>
+                <div class="dropdown-item" data-section-target="news">NEWS</div>
+                <div class="dropdown-item" data-section-target="about">ABOUT</div>
+                <div class="dropdown-item" data-section-target="people">PEOPLE</div>
+                <div class="dropdown-item" data-section-target="careers">CAREERS</div>
+                <div class="dropdown-item" data-section-target="contact">CONTACT</div>
+</div>
+        </div>
+
+        <div class="header-right">
+           <div class="search-container">
+    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#71717a" stroke-width="2">
+        <circle cx="11" cy="11" r="8"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+    </svg>
+    <input
+        type="text"
+        id="project-search-input"
+        class="search-input"
+        value="SHAMMAH"
+        autocomplete="off"
+        spellcheck="false"
+    >
+</div>
+    <nav class="nav-container hidden sm:flex">
+        <a href="#" class="nav-item" data-project-nav="all">Architecture</a>
+        <a href="#" class="nav-item" data-project-nav="interior">Interiors</a>
+        <a href="#" class="nav-item" data-project-nav="landscape" style="display: none;">Landscape</a>
+        <a href="#" class="nav-item" data-project-nav="planning" style="display: none;">Planning</a>
+        <a href="#" class="nav-item" data-project-nav="competition">Competition</a>
+    </nav>
+        </div>
+        </header>
+
+    <main class="max-w-[1600px] mx-auto">
+        <div id="projects-section">
+	<div id="projects-container"></div>
+     <div class="section-back-to-top-wrap">
+        <button type="button" class="section-back-to-top" data-back-to-top aria-label="Back to top">
+            <span class="section-back-to-top-logo" aria-hidden="true">
+                <span class="section-back-to-top-logo-line"></span>
+                <span class="section-back-to-top-logo-dot"></span>
+            </span>
+            <span class="section-back-to-top-text">Back to top</span>
+        </button>
+    </div>
+</div>
+
+<div id="news-section">
+    <h1 class="news-title">NEWS</h1>
+
+    <div class="news-filters">
+    <div class="filter-group news-category-filter-group">
+        <span>Category</span>
+        <select class="filter-select" id="category-filter">
+            <option value="all">All</option>
+        </select>
+    </div>
+
+    <div class="filter-group news-date-filter-group">
+        <span>Date</span>
+        <select class="filter-select" id="date-filter">
+            <option value="all">All</option>
+        </select>
+    </div>
+
+    <div class="filter-group news-search-filter-group">
+        <input
+            type="text"
+            id="news-search-input"
+            class="news-search-input"
+            placeholder="Search"
+            autocomplete="off"
+            spellcheck="false"
+        >
+    </div>
+</div>
+
+    <table class="news-table">
+        <thead>
+            <tr>
+                <th style="width: 50%;">TITLE</th>
+                <th style="width: 30%;">CATEGORY</th>
+                <th style="width: 20%;">DATE</th>
+            </tr>
+        </thead>
+        <tbody id="news-list">
+        </tbody>
+    </table>
+     <div class="section-back-to-top-wrap">
+        <button type="button" class="section-back-to-top" data-back-to-top aria-label="Back to top">
+            <span class="section-back-to-top-logo" aria-hidden="true">
+                <span class="section-back-to-top-logo-line"></span>
+                <span class="section-back-to-top-logo-dot"></span>
+            </span>
+            <span class="section-back-to-top-text">Back to top</span>
+        </button>
+    </div>
+</div>
+ <div id="about-section">
+    <h1 class="about-title">ABOUT</h1>
+    <div class="about-content">
+        <div class="about-text-box en">
+            <p>
+      <strong>SHAMMAH Architecture</strong> is an architectural practice that considers both the life of people and the order of space.
+              We see architecture not as a simple formal outcome, but as the design of an environment where time and experience accumulate.
+            </p>
+            <p>
+            Our work spans a wide range of fields including residential, commercial, workplace, and cultural spaces, and begins with a careful reading of the context and conditions surrounding each project.
+            By interpreting the character of the site, the surrounding environment, programmatic demands, and the movement and sensibility of users in an integrated way, we propose spaces that are clear and enduring.
+            </p>
+            <p>
+            We value balanced proportion, clear structure, and restrained detail over exaggerated gestures.
+            Architecture, before it is an image, must be a real space where people actually stay, move, and live.
+            </p>
+            <p>
+            SHAMMAH Architecture works to reduce the gap between concept and practice, carrying each project forward with a consistent attitude from the initial idea to completion.
+            We pursue careful and honest architecture by considering function and sensibility, economy and completeness, and both present needs and values that remain over time.
+            </p>
+            <div class="about-signature">
+                <span class="signature-name">Kyoungjin Kim</span>
+                <span class="signature-pos">Founder & Creative Director</span>
+            </div>
+            <div class="about-image-wrapper">
+                <img src="images/about/about_image1.webp" alt="SHAMMAH Architects Studio" loading="lazy" decoding="async">
+            </div>
+        </div>
+
+        <div class="about-text-box ko">
+            <p>
+                <strong>샴건축</strong>은 사람의 삶과 공간의 질서를 함께 고민하는 건축사사무소입니다.
+                우리는 건축을 단순한 형태의 결과물이 아니라, 시간과 경험이 축적되는 환경의 설계라고 생각합니다.
+            </p>
+            <p>
+                우리의 작업은 주거, 상업, 업무, 문화 공간 등 다양한 영역에 걸쳐 있으며, 각 프로젝트가 놓인 맥락과 조건을 면밀히 읽는 것에서 출발합니다.
+                대지의 성격, 주변 환경, 프로그램의 요구, 사용자의 움직임과 감각을 종합적으로 해석하여, 명확하고 오래 지속될 수 있는 공간을 제안합니다.
+            </p>
+            <p>
+                우리는 과장된 제스처보다 균형 있는 비례, 분명한 구조, 절제된 디테일을 중요하게 여깁니다.
+                건축은 눈에 보이는 이미지 이전에, 사람이 실제로 머무르고 사용하는 현실의 공간이어야 하기 때문입니다.
+            </p>
+            <p>
+                샴건축은 개념과 실무의 간극을 줄이며, 설계의 초기 아이디어부터 완성까지 일관된 태도로 프로젝트를 만들어갑니다.
+                기능과 감각, 경제성과 완성도, 현재의 요구와 시간이 지나도 남는 가치를 함께 고려하며, 신중하고 정직한 건축을 지향합니다.
+            </p>
+            <div class="about-signature">
+                <span class="signature-name">김  경  진</span>
+                <span class="signature-pos">대표 건축사 / 크리에이티브 디렉터</span>
+            </div>
+            <div class="about-image-wrapper">
+                <img src="images/about/about_image2.webp" alt="SHAMMAH Architects Model" loading="lazy" decoding="async">
+            </div>
+        </div>
+    </div>
+</div>
+
+<section id="people-section" style="display: none;">
+    <h1 class="people-title">PEOPLE</h1>
+    <div id="fixed-photo-viewer" class="fixed-photo-viewer"> <img id="viewer-img" src="" alt="" decoding="async">  </div>
+    <div id="people-container"></div>
+</section>
+
+<div id="careers-section">
+    <h1 class="careers-title">CAREERS</h1>
+    <div class="careers-content">
+    <div class="careers-column">
+        <div class="careers-block careers-block-intro">
+            <p>1. Sham Architects welcomes applicants who wish to experience the full architectural process at close range and refine their own perspective and attitude through practice. From planning and design to coordination, site work, and final completion, we welcome those who seek to follow the full course through which a project takes shape as a built space, and to develop a broader and more comprehensive understanding of architecture through that experience.</p>
+
+            <p>2. We see architecture not as a fragmented outcome, but as a process shaped by diverse conditions, judgments, and accumulated time. For this reason, we value those who aim not merely to fulfill a given role, but to understand the broader context of a project and to learn by thinking actively within it. We hope to work with individuals who appreciate the value of collaboration, approach practice with a steady perspective and sincere attitude, and are willing to explore with us how architecture is realized within the realities of practice.</p>
+        </div>
+
+        <div class="careers-block careers-block-requirements">
+            <p>
+                <strong>Requirements:</strong><br>
+                Please submit your CV and Portfolio in PDF format (under 20MB). We review applications on a rolling basis and will contact selected candidates for an interview.
+            </p>
+        </div>
+
+        <div class="careers-block careers-block-application">
+            <div class="careers-signature">
+                <span class="career-label">APPLICATIONS</span>
+                <span class="career-email">job@shammah.kr</span>
+            </div>
+        </div>
+
+        <div class="careers-image-wrapper">
+            <img src="images/careers/career_img1.webp" alt="Office Life">
+        </div>
+    </div>
+
+    <div class="careers-column">
+        <div class="careers-block careers-block-intro">
+            <p>하나. 샴건축은 건축이 만들어지는 전 과정을 가까이에서 경험하며, 실무를 통해 자신의 시각과 태도를 깊이 다듬어갈 인재를 기다립니다. 계획과 설계, 협의와 조율, 현장과 마무리의 단계에 이르기까지 하나의 프로젝트가 구체적인 공간으로 완성되어 가는 흐름을 함께 따라가며, 건축을 보다 넓고 입체적으로 이해하고자 하는 분들의 지원을 환영합니다.</p>
+
+            <p>둘. 우리는 건축을 단편적인 결과가 아니라 다양한 조건과 판단, 그리고 축적된 시간 속에서 형성되는 과정으로 바라봅니다. 따라서 주어진 역할만 수행하는 데 머무르기보다, 프로젝트 전반의 맥락을 이해하고 그 안에서 스스로 생각하며 배우려는 태도를 중요하게 생각합니다. 협업의 가치를 이해하고, 차분한 시선과 성실한 태도로 실무에 임하며, 건축이 현실 속에서 구현되는 과정을 함께 탐구해 나갈 분과 일하고자 합니다.</p>
+        </div>
+
+        <div class="careers-block careers-block-requirements">
+            <p>
+                <strong>제출 서류:</strong><br>
+                이력서 및 포트폴리오를 PDF 형식으로 제출해 주시기 바랍니다 (20MB 미만). 지원서는 상시 검토하며, 인터뷰 대상자에 한해 개별 연락 드립니다.
+            </p>
+        </div>
+
+        <div class="careers-block careers-block-application">
+            <div class="careers-signature">
+                <span class="career-label">지원 접수</span>
+                <span class="career-email">job@shammah.kr</span>
+            </div>
+        </div>
+
+        <div class="careers-image-wrapper">
+            <img src="images/careers/career_img2.webp" alt="Design Process" loading="lazy" decoding="async">
+        </div>
+    </div>
+</div>
+</div>
+
+
+ <div id="contact-section">
+            <div class="contact-content">
+                <div class="contact-item">
+                    <div class="category-header"><span>Email</span> <span class="plus-icon">+</span></div>
+                    <div class="contact-details">
+                        <div class="detail-row"><span class="detail-label">NEW PROJECTS</span><a href="mailto:new@shammah.kr" class="detail-value-email">new@shammah.kr</a></div>
+                        <div class="detail-row"><span class="detail-label">CAREER</span><a href="mailto:job@shammah.kr" class="detail-value-email">job@shammah.kr</a></div>
+                    </div>
+                </div>
+                <div class="contact-item">
+                    <div class="category-header"><span>Office</span> <span class="plus-icon">+</span></div>
+                    <div class="contact-details">
+                        <div class="detail-row">
+                            <span class="detail-label">INCHEON</span>
+                            <div class="detail-value-office">
+                                2F, 66, Guwol-ro 115beon-gil,<br>
+                                Namdong-gu, Incheon, Korea<br><br>
+                                M. +82 070 7782 7898<br>
+                                F. +82 0504 431 9746
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="contact-item">
+                    <div class="category-header"><span>Social</span> <span class="plus-icon">+</span></div>
+                    <div class="contact-details">
+                        <div class="detail-row-social">
+                            <a href="https://www.instagram.com/shammah_official" target="_blank" rel="noopener noreferrer" class="social-link">
+                                <span>INSTAGRAM</span>
+                                <svg class="arrow-icon-thin" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 9L9 1M9 1H3M9 1V7" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </a>
+                        </div>
+                        <div class="detail-row-social" style="display: none;">
+                            <a href="https://www.youtube.com/@shammah_architects" target="_blank" rel="noopener noreferrer" class="social-link">
+                                <span>YOUTUBE</span>
+                                <svg class="arrow-icon-thin" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 9L9 1M9 1H3M9 1V7" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+<script src="https://unpkg.com/@studio-freight/lenis@1.0.33/dist/lenis.min.js"></script>
+<script>
+    (() => {
+        const prefersReducedMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        if (prefersReducedMotion || typeof window.Lenis !== 'function') return;
+
+        const lenis = new window.Lenis({
+            duration: 1.5,
+            easing: t => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
+            smoothWheel: true
+        });
+
+        function raf(time) {
+            lenis.raf(time);
+            requestAnimationFrame(raf);
+        }
+
+        requestAnimationFrame(raf);
+    })();
+</script>
+</body>
+</html>
