@@ -17,6 +17,48 @@ window.ProjectsModule = (() => {
         }
     }
 
+    function getProjectIdText(idData) {
+    if (idData && typeof idData === 'object' && !Array.isArray(idData)) {
+        return idData.value || idData.text || '';
+    }
+
+    return typeof idData === 'string' ? idData : '';
+}
+
+function renderProjectIdBox(idData, projectTitle = '') {
+    if (idData && typeof idData === 'object' && !Array.isArray(idData)) {
+        if (idData.type === 'image' && idData.src) {
+            const alt = idData.alt || `${projectTitle} id image`;
+
+            return `
+                <div class="project-id-box project-id-box--image">
+                    <img
+                        src="${idData.src}"
+                        alt="${alt}"
+                        class="project-id-image"
+                        loading="lazy"
+                        decoding="async"
+                    >
+                </div>
+            `;
+        }
+
+        const textValue = idData.value || idData.text || '';
+
+        return `
+            <div class="project-id-box project-id-box--text">
+                <span class="project-id-text">${textValue}</span>
+            </div>
+        `;
+    }
+
+    return `
+        <div class="project-id-box project-id-box--text">
+            <span class="project-id-text">${idData || ''}</span>
+        </div>
+    `;
+}
+
     function projectMatchesSearch(project, query) {
         if (!query || !query.trim()) return true;
 
@@ -31,7 +73,7 @@ window.ProjectsModule = (() => {
             App.helpers.formatCategoryLabel(project.category),
             project.status,
             App.helpers.formatStatusLabel(project.status),
-            project.id
+            getProjectIdText(project.id)
         ];
 
         return candidates.some(candidate => {
@@ -557,9 +599,7 @@ const contentsHtml = contentsHtmlParts.join('');
                         <div class="project-content-group">
                             <div class="project-info">
                                 <div class="project-info-top">
-                                    <div class="w-8 h-8 bg-black mb-4 flex items-center justify-center project-id-box">
-                                        <span class="text-white text-[7px] font-bold">${project.id}</span>
-                                    </div>
+                                    ${renderProjectIdBox(project.id, project.title)}
                                     <button type="button" class="project-close-button" aria-label="Close project detail">Close</button>
                                 </div>
 

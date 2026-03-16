@@ -260,3 +260,22 @@ header {
     letter-spacing: 0.08em;
     text-transform: uppercase;
 }
+
+img,
+video,
+canvas,
+svg {
+    -webkit-user-drag: none;
+    user-drag: none;
+    -webkit-touch-callout: none;
+}
+
+.project-image-box img,
+.detail-image img,
+.fixed-photo-viewer img,
+.about-image-wrapper img,
+.careers-image-wrapper img {
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+}

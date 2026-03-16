@@ -2,7 +2,11 @@
   "projects": [
     {
       "slug": "1712C_TPFL",
-      "id": "#01",
+      "id": {
+        "type": "image",
+        "src": "images/projects/1712C_TPFL/TPFL_icon.png",
+        "alt": "세 개의 면, 다섯 개의 켜 id box"
+    },
       "title": "세 개의 면, 다섯 개의 켜",
       "location": "Incheon, Korea",
       "year": "2025",
@@ -55,7 +59,11 @@
     },
     {
       "slug": "2509P_Welfare",
-      "id": "#08",
+      "id": {
+        "type": "image",
+        "src": "images/projects/2509P_Welfare/welfare_icon.png",
+        "alt": "월드비전 무진종합사회복지관 id box"
+    },
       "title": "월드비전 무진종합사회복지관",
       "location": "Mujin, Korea",
       "year": "2025",
@@ -115,7 +123,11 @@
     },
     {
       "slug": "2410C_Culture_Center",
-      "id": "#07",
+      "id": {
+        "type": "image",
+        "src": "images/projects/2410C_Culture_Center/Culture_Center_icon.png",
+        "alt": "산청 행복문화센터 id box"
+    },
       "title": "산청 행복문화센터",
       "location": "Sancheong, Korea",
       "year": "2025",
@@ -154,7 +166,11 @@
     },
     {
       "slug": "2311A_APC",
-      "id": "#07",
+      "id": {
+        "type": "image",
+        "src": "images/projects/2311A_APC/APC_icon.png",
+        "alt": "화성푸드통합지원센터 id box"
+      },
       "title": "화성푸드통합지원센터",
       "location": "Hwaseong, Korea",
       "year": "2025",
@@ -193,7 +209,11 @@
     },
     {
       "slug": "2207P_FIRESTATION",
-      "id": "#05",
+      "id": {
+        "type": "image",
+        "src": "images/projects/2207P_FIRESTATION/firestation_icon.png",
+        "alt": "만수119안전센터 id box"
+      },
       "title": "만수119안전센터 재건축",
       "location": "Incheon, Korea",
       "year": "2024",
@@ -216,7 +236,11 @@
     },
     {
       "slug": "2102I_INTERIOR_LOLO",
-      "id": "#04",
+      "id": {
+        "type": "image",
+        "src": "images/projects/2102I_INTERIOR_LOLO/lolo_icon.png",
+        "alt": "로로 스튜디오 id box"
+      },
       "title": "로로 스튜디오",
       "location": "Incheon, Korea",
       "year": "2024",
@@ -248,7 +272,11 @@
     },
     {
       "slug": "2010B_INTERIOR_SIKUNJEMA",
-      "id": "#03",
+      "id": {
+        "type": "image",
+        "src": "images/projects/2010B_INTERIOR_SIKUNJEMA/SIKUNJEMA_icon.png",
+        "alt": "카페 시쿠은제마 id box"
+      },
       "title": "카페 시쿠은제마",
       "location": "Incheon, Korea",
       "year": "2024",
@@ -281,7 +309,11 @@
     },
     {
       "slug": "2006P_Library",
-      "id": "#02",
+      "id": {
+        "type": "image",
+        "src": "images/projects/2006P_Library/library_icon.png",
+        "alt": "진주시 남부어린이 도서관 id box"
+      },
       "title": "진주시 남부어린이 도서관",
       "location": "Jinju, Korea",
       "year": "2024",
@@ -306,7 +338,11 @@
     },
     {
       "slug": "2002I_INTERIOR_TPFL",
-      "id": "#01-1",
+      "id": {
+        "type": "image",
+        "src": "images/projects/2002I_INTERIOR_TPFL/TPFL_icon.png",
+        "alt": "중첩된 시간의 집 id box"
+      },
       "title": "중첩된 시간의 집",
       "location": "Incheon, Korea",
       "year": "2020",
